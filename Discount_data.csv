@@ -1,0 +1,840 @@
+id,created,total,original,discount,tax,deliveryCharge,advance,paymentId,paymentMode,state,style,cancellation
+wKEXiBgpRM,11/2/2017,270,245,0,0,25,0,#N/A,#N/A,processing,delivery,#N/A
+h2OtV9X1BV,11/2/2017,195,195,0,0,0,0,#N/A,#N/A,initiated,inStore,#N/A
+Kiqb3cSdlS,11/2/2017,365,365,0,0,0,0,card1486824628270,card,delivered,inStore,#N/A
+IAObHwgEPT,11/2/2017,245.25,265,39.75,0,20,0,zomato online,other,delivered,delivery,#N/A
+nR31JKc4DX,11/2/2017,390,390,0,0,0,0,cash1486808956626,cash,delivered,inStore,#N/A
+hikseq4tNM,11/2/2017,325,325,0,0,0,0,zomato onlie,other,delivered,delivery,#N/A
+ecpje6ZqEb,11/2/2017,270.75,315,44.25,0,0,0,zomato online,other,delivered,delivery,#N/A
+4olSHcQcLa,11/2/2017,710,710,0,0,0,0,cash1486808879779,cash,delivered,inStore,#N/A
+PovFX2LovJ,11/2/2017,270,270,0,0,0,0,cash1486808904028,cash,delivered,delivery,#N/A
+HDg6knFMfP,11/2/2017,625,625,0,0,0,0,card1486807376303,card,delivered,inStore,#N/A
+PBG3w2zqz1,11/2/2017,440,440,0,0,0,0,card1486806546883,card,delivered,inStore,#N/A
+KlyhzE9Mc8,11/2/2017,150,150,0,0,0,0,cash1486807411123,cash,delivered,inStore,#N/A
+xSDVESCXFz,11/2/2017,295,245,0,0,50,0,cash1486804575401,cash,delivered,delivery,#N/A
+VDQcsCe3LO,11/2/2017,480,480,0,0,0,0,card1486804636451,card,delivered,inStore,#N/A
+epAHIO2vE8,11/2/2017,925,925,0,0,0,0,#N/A,#N/A,initiated,inStore,#N/A
+b3nb5ymcf3,11/2/2017,270,245,0,0,25,0,cash1486804597294,cash,delivered,delivery,#N/A
+tpIo0PPeKR,11/2/2017,820,820,0,0,0,0,card1486803381709,card,delivered,inStore,#N/A
+VoJXwOXMZq,11/2/2017,985,960,0,0,25,0,card1486800014536,card,delivered,delivery,#N/A
+lGhYyVoNRn,11/2/2017,120,120,0,0,0,0,cash1486798185401,cash,delivered,delivery,#N/A
+KBCCm8B9p2,11/2/2017,265,265,0,0,0,0,cash1486800046798,cash,delivered,delivery,#N/A
+PCtw6gFK7k,11/2/2017,895,870,0,0,25,0,cash1486800071584,cash,delivered,delivery,#N/A
+YnhqkfKdk6,10/2/2017,245,225,0,0,20,0,cash1486750274664,cash,delivered,delivery,#N/A
+opnxJfh82e,10/2/2017,225,225,0,0,0,0,cash1486748076850,cash,delivered,inStore,#N/A
+PRAPmuvHCN,10/2/2017,1320.5,1510,229.5,0,40,0,zomato online,other,delivered,delivery,#N/A
+ljYuxNFRYd,10/2/2017,340,340,0,0,0,0,cash1486748012040,cash,delivered,inStore,#N/A
+EZ8jkOsAd3,10/2/2017,245,245,0,0,0,0,cash1486745858727,cash,delivered,inStore,#N/A
+RDPJPVBkGt,10/2/2017,301,320,59,0,40,0,zomato online,other,delivered,delivery,#N/A
+S2I1PE7sJ4,10/2/2017,275,300,45,0,20,0,zomato online,other,delivered,delivery,#N/A
+YndoSbHZLD,10/2/2017,750,750,0,0,0,0,cash1486747433616,cash,delivered,inStore,#N/A
+P0VjS8FntP,10/2/2017,315,315,0,0,0,0,cash1486747766650,cash,delivered,delivery,#N/A
+WOwVcmOHSL,10/2/2017,195,195,0,0,0,0,cash1486745079753,cash,delivered,delivery,#N/A
+PDRwFesvyq,10/2/2017,650,650,0,0,0,0,cash1486745130512,cash,delivered,inStore,#N/A
+Qc0mrgqeAA,10/2/2017,814.75,935,140.25,0,20,0,cash1486745400156,cash,delivered,delivery,#N/A
+xBDWjeoz7q,10/2/2017,710,710,0,0,0,0,card1486745626683,card,delivered,inStore,#N/A
+oCWgLoYZFh,10/2/2017,630,630,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+KCt38RzNS4,10/2/2017,410,385,0,0,25,0,cash1486746907353,cash,delivered,delivery,#N/A
+voKfOjsK1o,10/2/2017,15,15,0,0,0,0,cash1486742286202,cash,delivered,inStore,#N/A
+cq0YLGKeDN,10/2/2017,245,245,0,0,0,0,cash1486738755916,cash,delivered,inStore,#N/A
+OANsDQEpYV,10/2/2017,225,225,0,0,0,0,cash1486736365117,cash,delivered,inStore,#N/A
+m4tQD7xM3W,10/2/2017,120,120,0,0,0,0,cash1486737212517,cash,delivered,delivery,#N/A
+pbIqPHklek,10/2/2017,283.5,320,46.5,0,10,0,cash1486737236603,cash,delivered,delivery,#N/A
+NdPUVF5tyy,10/2/2017,420,420,0,0,0,0,cash1486736097562,cash,delivered,inStore,#N/A
+khVqB4Dj6t,10/2/2017,1630,1630,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+2fIpqxJYwD,10/2/2017,265,265,0,0,0,0,swuggy online,other,delivered,inStore,#N/A
+zJKKrVJXZB,10/2/2017,490,490,0,0,0,0,cash1486720438011,cash,delivered,inStore,#N/A
+A6rK8Xl4hm,10/2/2017,249.5,270,40.5,0,20,0,zomato online,other,delivered,delivery,#N/A
+F4q8bT7qy8,10/2/2017,540,490,0,0,50,0,cash1486717877352,cash,delivered,delivery,#N/A
+7vpSXqsm3a,10/2/2017,250,225,0,0,25,0,cash1486717898782,cash,delivered,delivery,#N/A
+eamE9qduuO,10/2/2017,949,1055,106,0,0,0,cash1486748963674,cash,delivered,inStore,#N/A
+tvbRdYEYbd,10/2/2017,735,735,0,0,0,0,cash1486713000079,cash,delivered,inStore,#N/A
+TxoBgRTT6g,10/2/2017,795,795,0,0,0,0,card1486712462558,card,delivered,inStore,#N/A
+1iAoaFYDLM,10/2/2017,1015,990,0,0,25,0,cash1486736077245,cash,delivered,delivery,#N/A
+OAAXZL0xM2,10/2/2017,1530,1480,0,0,50,0,card1486713821362,card,delivered,delivery,#N/A
+pqVfkksIkl,9/2/2017,225,225,0,0,0,0,swiggy,other,delivered,inStore,#N/A
+UWc5lwDB1K,9/2/2017,220,220,0,0,0,0,cash1486661047792,cash,delivered,inStore,#N/A
+Rc4poIDHD8,9/2/2017,315,315,0,0,0,0,card1486660053131,card,delivered,inStore,#N/A
+i6xPMEAc2O,9/2/2017,280,280,0,0,0,0,cash1486658557643,cash,delivered,delivery,#N/A
+ZcQw8aM7Hr,9/2/2017,560,560,0,0,0,0,card1486658781462,card,delivered,delivery,#N/A
+R7HoHHI0cv,9/2/2017,1010.25,1165,174.75,0,20,0,cash1486657664863,cash,delivered,delivery,#N/A
+aMZfQqf75l,9/2/2017,215,195,0,0,20,0,cash1486659366143,cash,delivered,delivery,#N/A
+cy5y1MCOhk,9/2/2017,576.75,645,98.25,0,30,0,zomato online,other,delivered,delivery,#N/A
+gkp0ZhuB1a,9/2/2017,490,490,0,0,0,0,cash1486655429720,cash,delivered,delivery,#N/A
+hwlSSfOCxH,9/2/2017,325,325,0,0,0,0,cash1486653820704,cash,delivered,inStore,#N/A
+NiIJRvSBQf,9/2/2017,565,565,0,0,0,0,card1486652625428,card,delivered,delivery,#N/A
+p1JDWYYBW5,9/2/2017,510,510,0,0,0,0,card1486651983467,card,delivered,inStore,#N/A
+BDIDQyxkjB,9/2/2017,120,120,0,0,0,0,cash1486648091178,cash,delivered,delivery,#N/A
+X7ETEPz7SD,9/2/2017,230,230,0,0,0,0,cash1486646197676,cash,delivered,inStore,#N/A
+77IlAZmhLd,9/2/2017,1255,1255,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+SDSRev6prD,9/2/2017,325,325,0,0,0,0,swiggy,other,delivered,delivery,#N/A
+LQagc3ie1Q,9/2/2017,300.5,330,49.5,0,20,0,zomato online,other,delivered,delivery,#N/A
+DbaL95xrih,9/2/2017,265,245,0,0,20,0,zomato online,other,delivered,delivery,#N/A
+kgUYWdNtF7,9/2/2017,558,620,62,0,0,0,cash1486662656409,cash,delivered,inStore,#N/A
+6VYgXuZdsN,8/2/2017,283.5,310,46.5,0,20,0,cash1486574699141,cash,delivered,delivery,#N/A
+DuOLMxPwyw,8/2/2017,160,140,0,0,20,0,#N/A,#N/A,cancelled,delivery,Added this by mistake
+0VDkfpLvQo,8/2/2017,226.5,245,38.5,0,20,0,cash1486573549872,cash,delivered,delivery,#N/A
+zGIsHTMfcG,8/2/2017,530,530,0,0,0,0,cash1486575760540,cash,delivered,inStore,#N/A
+Qk04qUJLBA,8/2/2017,390,390,0,0,0,0,cash1486574166041,cash,delivered,inStore,#N/A
+bAk3fJCmNk,8/2/2017,180,180,0,0,0,0,cash1486572954696,cash,delivered,inStore,#N/A
+MRP77wrYzF,8/2/2017,237,245,28,0,20,0,#N/A,#N/A,cancelled,delivery,Added this by mistake
+CNztzelbLh,8/2/2017,1030,1030,0,0,0,0,cash1486570772887,cash,delivered,inStore,#N/A
+0ZFHzaOMOj,8/2/2017,1184.5,1370,205.5,0,20,0,cash1486570538726,cash,delivered,delivery,#N/A
+l1Awh7BkCE,8/2/2017,705,705,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+Yg3Il2Adxn,8/2/2017,241,260,39,0,20,0,241,other,delivered,delivery,#N/A
+9q35Hb68qj,8/2/2017,925,900,0,0,25,0,cash1486570490773,cash,delivered,delivery,#N/A
+mCPPjXpmgn,8/2/2017,245,245,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+COhZ3pigie,8/2/2017,245,245,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+GHccC6XBP3,8/2/2017,120,120,0,0,0,0,cash1486563349244,cash,delivered,delivery,#N/A
+Fm5fzKoD38,8/2/2017,365,365,0,0,0,0,cash1486549303866,cash,delivered,inStore,#N/A
+OmjOER1SyS,8/2/2017,901,1060,159,0,0,0,cash1486576098820,cash,delivered,inStore,#N/A
+BuM79pYceA,8/2/2017,510,510,0,0,0,0,cash1486548487506,cash,delivered,inStore,#N/A
+lJZQMcTz8K,8/2/2017,420,420,0,0,0,0,card1486548683749,card,delivered,inStore,#N/A
+VBmdGIzE4h,8/2/2017,535,535,0,0,0,0,cash1486543471378,cash,delivered,delivery,#N/A
+z7rQIdBfLJ,8/2/2017,990,990,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+FAk0pD1EK8,8/2/2017,2305,2305,0,0,0,0,card1486547044513,card,delivered,inStore,#N/A
+OSZIzHXFjm,8/2/2017,270,270,0,0,0,0,cash1486542106063,cash,delivered,delivery,#N/A
+eFheN3FaDp,8/2/2017,150,150,0,0,0,0,cash1486539039767,cash,delivered,delivery,#N/A
+SXAFFx4q7J,7/2/2017,195,195,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+ygLlsCFHtW,7/2/2017,300,360,80,0,20,0,zomato online,other,delivered,delivery,#N/A
+s0MDXkTW5x,7/2/2017,195,195,0,0,0,0,cash1486489094349,cash,delivered,inStore,#N/A
+PN8jIVxXlw,7/2/2017,606,675,89,0,20,0,cash1486490222874,cash,delivered,delivery,#N/A
+YAWPMtiwF2,7/2/2017,205,205,0,0,0,0,cash1486489005899,cash,delivered,inStore,#N/A
+QHuF4Fu0pm,7/2/2017,250,270,40,0,20,0,zomato online,other,delivered,delivery,#N/A
+fdv7a3X1o8,7/2/2017,865,865,0,0,0,0,cash1486489794883,cash,delivered,inStore,#N/A
+AQpYxLBNLW,7/2/2017,301,320,39,0,20,0,zomato online,other,delivered,delivery,#N/A
+4SyhHy9dbG,7/2/2017,915,890,0,0,25,0,cash1486488029309,cash,delivered,delivery,#N/A
+g49c5AKuqK,7/2/2017,510,510,0,0,0,0,cash1486487135843,cash,delivered,inStore,#N/A
+SNCZABoGkd,7/2/2017,445,445,0,0,0,0,cash1486485338649,cash,delivered,inStore,#N/A
+x3yRlnDQaM,7/2/2017,275,300,45,0,20,0,zoamto online,other,delivered,delivery,#N/A
+YWihGTbNg6,7/2/2017,195,195,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+SOLUR9a112,7/2/2017,402.5,450,67.5,0,20,0,cash1486484535356,cash,delivered,delivery,#N/A
+REhzIo0Taf,7/2/2017,266.5,290,43.5,0,20,0,zomato onliner,other,delivered,delivery,#N/A
+Xu39tZupEJ,7/2/2017,245,285,60,0,20,0,zomato online,other,delivered,delivery,#N/A
+YXVui96k5U,7/2/2017,265,245,0,0,20,0,zomato online,other,delivered,delivery,#N/A
+BdxmmHc0pg,7/2/2017,940,940,0,0,0,0,cash1486484006562,cash,delivered,inStore,#N/A
+wo1aqGKVJo,7/2/2017,140,140,0,0,0,0,cash1486481358502,cash,delivered,inStore,#N/A
+2V8BDqANeM,7/2/2017,285,265,0,0,20,0,cash1486483382725,cash,delivered,delivery,#N/A
+SHWuhaeQjM,7/2/2017,475,555,100,0,20,0,cash1486480621438,cash,delivered,delivery,#N/A
+AKd2zVqPLt,7/2/2017,525.75,595,89.25,0,20,0,zomato online,other,delivered,delivery,#N/A
+HxfeSU8d3t,7/2/2017,245,225,0,0,20,0,cash1486462672880,cash,delivered,delivery,#N/A
+oRgx7knAxj,7/2/2017,252,280,28,0,0,0,cash1486490282756,cash,delivered,inStore,#N/A
+CJ5k8Y0krZ,7/2/2017,295,275,0,0,20,0,cash1486460970592,cash,delivered,delivery,#N/A
+Ry2WZemXIa,7/2/2017,420,420,0,0,0,0,paytm,other,delivered,inStore,#N/A
+GYKWsb9rjX,7/2/2017,300,275,0,0,25,0,cash1486458339661,cash,delivered,delivery,#N/A
+hMNhuZAuFf,7/2/2017,377,420,63,0,20,0,zomato online,other,delivered,delivery,#N/A
+dwZRcVCl6b,7/2/2017,226.75,245,38.25,0,20,0,zomato online,other,delivered,delivery,#N/A
+dSoa0en49p,7/2/2017,419.5,470,70.5,0,20,0,zomato onlie,other,delivered,delivery,#N/A
+PAp7g3Fzun,7/2/2017,225,225,0,0,0,0,swiggy online,other,delivered,delivery,#N/A
+CD9LkT77uN,5/2/2017,120,120,0,0,0,0,cash1486317926663,cash,delivered,inStore,#N/A
+539Spibg0f,5/2/2017,120,120,0,0,0,0,cash1486318429595,cash,delivered,inStore,#N/A
+hyzxvYIv3s,5/2/2017,253.75,275,41.25,0,20,0,zomato online,other,delivered,delivery,#N/A
+NK9VyOAsmE,5/2/2017,245.25,265,39.75,0,20,0,zomato online,other,delivered,delivery,#N/A
+7PefgK5x7r,5/2/2017,255,255,0,0,0,0,cash1486317549885,cash,delivered,inStore,#N/A
+kM2KwX6MpC,5/2/2017,265,265,0,0,0,0,cash1486313497362,cash,delivered,inStore,#N/A
+iBgYjm0Hax,5/2/2017,535,535,0,0,0,0,cash1486317498232,cash,delivered,inStore,#N/A
+T0Y0WiKRQz,5/2/2017,300,360,80,0,20,0,zomato online,other,delivered,delivery,#N/A
+TodvGVgQ5H,5/2/2017,491.75,555,83.25,0,20,0,cash1486311330609,cash,delivered,delivery,#N/A
+5RJfVlOfmh,5/2/2017,325,300,0,0,25,0,cash1486317575780,cash,delivered,delivery,#N/A
+N9YGIXZ46Z,5/2/2017,810,810,0,0,0,0,card1486317428562,card,delivered,inStore,#N/A
+OsTePHNddI,5/2/2017,140,140,0,0,0,0,cash1486312362528,cash,delivered,inStore,#N/A
+Ju6mMxEVic,5/2/2017,385,385,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+GVvqBLco1O,5/2/2017,972,1120,168,0,20,0,zomato online,other,delivered,delivery,#N/A
+340s8GhOOf,5/2/2017,445,425,0,0,20,0,cash1486311952594,cash,delivered,delivery,#N/A
+gjotYxsYVb,5/2/2017,495,470,0,0,25,0,cash1486311991760,cash,delivered,delivery,#N/A
+CA0PWV4O1s,5/2/2017,245,245,0,0,0,0,swiggy onlie,other,delivered,inStore,#N/A
+2xnsVpmxe7,5/2/2017,177.5,225,67.5,0,20,0,zomato online,other,delivered,delivery,#N/A
+3DEudKplyk,5/2/2017,705,705,0,0,0,0,cash1486312083646,cash,delivered,delivery,#N/A
+6WgdiSiaDb,5/2/2017,215,195,0,0,20,0,cash1486307415575,cash,delivered,delivery,#N/A
+K5CkxjReXV,5/2/2017,1405,1380,0,0,25,0,cash1486306937270,cash,delivered,delivery,#N/A
+v407JuhY9g,5/2/2017,860,840,0,0,20,0,cash1486306755637,cash,delivered,delivery,#N/A
+bVmOwrIm5I,5/2/2017,525,525,0,0,0,0,cash1486305540332,cash,delivered,inStore,#N/A
+H34KIBg6y8,5/2/2017,266.5,290,43.5,0,20,0,zomato online,other,delivered,delivery,#N/A
+lQJJRmbFmv,5/2/2017,680,680,0,0,0,0,cash1486289675880,cash,delivered,inStore,#N/A
+nCt2xLOr0J,5/2/2017,567,630,63,0,0,0,cash1486317312191,cash,delivered,inStore,#N/A
+qLnPQKmESv,5/2/2017,195,195,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+2KmUnon1de,5/2/2017,245.25,265,39.75,0,20,0,zomato online,other,delivered,delivery,#N/A
+5tOQ26wiKJ,5/2/2017,456.5,510,73.5,0,20,0,zomato online,other,delivered,delivery,#N/A
+9ZwyhydXxr,5/2/2017,410,410,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+uY5frAq3bF,5/2/2017,490,490,0,0,0,0,card1486281533277,card,delivered,delivery,#N/A
+xiZvjdEWlj,5/2/2017,2535,2535,0,0,0,0,cash1486291488849,cash,delivered,delivery,#N/A
+Tz85NjFxJF,5/2/2017,930,930,0,0,0,0,cash1486279180230,cash,delivered,delivery,#N/A
+pLXyaxHX0P,5/2/2017,245,245,0,0,0,0,cash1486279214230,cash,delivered,delivery,#N/A
+jcHkZbj1vI,4/2/2017,570,570,0,0,0,0,card1486235732142,card,delivered,inStore,#N/A
+U6PPayXyOE,4/2/2017,85,65,0,0,20,0,cash1486233339223,cash,delivered,delivery,#N/A
+7WUX8gs11c,4/2/2017,245,285,65,0,25,0,zomato online,other,delivered,delivery,#N/A
+0E0zCMCoff,4/2/2017,266.5,290,43.5,0,20,0,zomato online,other,delivered,delivery,#N/A
+o3jBGHhWIR,4/2/2017,226.75,245,38.25,0,20,0,zomato online,other,delivered,delivery,#N/A
+YwpMY6bPBp,4/2/2017,255,255,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+ByeGBEh654,4/2/2017,253.75,275,41.25,0,20,0,cash1486232913765,cash,delivered,delivery,#N/A
+VjOsQDqPnE,4/2/2017,504,560,56,0,0,0,cash1486232774191,cash,delivered,inStore,#N/A
+avOZBuuLbA,4/2/2017,245,245,0,0,0,0,cash1486231056931,cash,delivered,delivery,#N/A
+2SEVEcR3c6,4/2/2017,225,225,0,0,0,0,cash1486231996828,cash,delivered,delivery,#N/A
+40bbRz9Rh1,4/2/2017,465,465,0,0,0,0,cash1486231239003,cash,delivered,inStore,#N/A
+5f6GwhzczS,4/2/2017,245,245,0,0,0,0,cash1486225183965,cash,delivered,delivery,#N/A
+fzUWz5nu5X,4/2/2017,250,250,0,0,0,0,paytm,other,delivered,inStore,#N/A
+ESJBUPtm0N,4/2/2017,265,265,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+pSPOAQonSK,4/2/2017,245.25,265,39.75,0,20,0,zomato online,other,delivered,delivery,#N/A
+1JE8HYpJLM,4/2/2017,265,265,0,0,0,0,cash1486231572053,cash,delivered,delivery,#N/A
+daobUkhihn,4/2/2017,265,265,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+rSzE9NL4m5,4/2/2017,531.5,555,43.5,0,20,0,cash1486234031015,cash,delivered,delivery,#N/A
+6sjVI2uNxg,4/2/2017,622,710,108,0,20,0,zomato online,other,delivered,delivery,#N/A
+cVRJUBcGM8,4/2/2017,510,510,0,0,0,0,card1486223397845,card,delivered,inStore,#N/A
+4dFwH3lutA,4/2/2017,245.25,265,39.75,0,20,0,zomato online,other,delivered,delivery,#N/A
+AQLg0iwxIu,4/2/2017,1175,1175,0,0,0,0,cash1486224603790,cash,delivered,delivery,#N/A
+EbAtcgUpzv,4/2/2017,644.75,735,110.25,0,20,0,zomato online,other,delivered,delivery,#N/A
+jwRcwzS0hi,4/2/2017,1231.25,1425,213.75,0,20,0,zomato online,other,delivered,delivery,#N/A
+AwdcZCLdTf,4/2/2017,405,405,0,0,0,0,cash1486217064433,cash,delivered,delivery,#N/A
+bDSWFiqrsG,4/2/2017,120,120,0,0,0,0,cash1486210097029,cash,delivered,delivery,#N/A
+8Qj1DTt4ya,4/2/2017,450,450,0,0,0,0,cash1486205971710,cash,delivered,inStore,#N/A
+BaG1PCkvZL,4/2/2017,150,150,0,0,0,0,cash1486198450645,cash,delivered,delivery,#N/A
+unqgVkvjTM,4/2/2017,1150.5,1330,199.5,0,20,0,cash1486196299447,cash,delivered,delivery,#N/A
+VCsQzzBGJ7,4/2/2017,575,575,0,0,0,0,cash1486198479302,cash,delivered,delivery,#N/A
+EYTxlnggyw,4/2/2017,245.25,265,39.75,0,20,0,zomato online,other,delivered,delivery,#N/A
+onZQrQOYC3,4/2/2017,265,265,0,0,0,0,cash1486194819647,cash,delivered,delivery,#N/A
+AsYELvVeDi,3/2/2017,225,225,0,0,0,0,cash1486145749465,cash,delivered,delivery,#N/A
+hWFGZixWiw,3/2/2017,284,335,51,0,0,0,cash1486145725669,cash,delivered,inStore,#N/A
+2EYYzaTbCI,3/2/2017,226.75,245,38.25,0,20,0,zomato cash,other,delivered,delivery,#N/A
+Op4jM3U18N,3/2/2017,225,205,0,0,20,0,zomato online,other,delivered,delivery,#N/A
+FNLIdhWqoi,3/2/2017,285,285,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+lsJama58Sd,3/2/2017,290,290,0,0,0,0,card1486145238314,card,delivered,inStore,#N/A
+FsWGPHjVsw,3/2/2017,918,1060,162,0,20,0,zomato cash,other,delivered,delivery,#N/A
+XtTIrOdEDS,3/2/2017,225,225,0,0,0,0,cash1486142557014,cash,delivered,delivery,#N/A
+2d2RKpdBN6,3/2/2017,252.25,275,42.75,0,20,0,zomato online,other,delivered,delivery,#N/A
+PJVC44KKie,3/2/2017,195,195,0,0,0,0,cash1486139668507,cash,delivered,inStore,#N/A
+qbCC3Bt6Bn,3/2/2017,245,245,0,0,0,0,cash1486138700089,cash,delivered,delivery,#N/A
+6hGNRp2ol0,3/2/2017,5096,5096,0,0,0,0,cash1486141628761,cash,delivered,delivery,#N/A
+HWO32GuBZD,3/2/2017,245,245,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+gvOGjQhrMk,3/2/2017,670.25,765,114.75,0,20,0,zomato online,other,delivered,delivery,#N/A
+RcegKkb98s,3/2/2017,226.75,245,38.25,0,20,0,zomato online,other,delivered,delivery,#N/A
+RrNHhZqHEu,3/2/2017,140,140,0,0,0,0,cash1486130541223,cash,delivered,inStore,#N/A
+w6YC8Cya15,3/2/2017,140,140,0,0,0,0,cash1486127220623,cash,delivered,inStore,#N/A
+8WFcqLJJiN,3/2/2017,665,0,0,0,0,0,cash1486122092052,cash,delivered,inStore,#N/A
+4hJAg57xgh,3/2/2017,253.75,275,41.25,0,20,0,zomato online,other,delivered,delivery,#N/A
+FVdyi3IdH7,3/2/2017,245.25,265,39.75,0,20,0,zomato online,other,delivered,delivery,#N/A
+CY6CzCH2YC,3/2/2017,377,420,63,0,20,0,zomato online,other,delivered,delivery,#N/A
+DUHvNtnBDV,3/2/2017,660,0,0,0,0,0,cash1486115810190,cash,delivered,inStore,#N/A
+F7ft5SDl5J,3/2/2017,226.75,245,38.25,0,20,0,zomato online,other,delivered,delivery,#N/A
+6vZcXc1Q3Z,3/2/2017,225,0,0,0,0,0,swiggy online,other,delivered,delivery,#N/A
+Evl7sisSdx,3/2/2017,418,470,72,0,20,0,zomato online,other,delivered,delivery,#N/A
+p37zVMJmF7,3/2/2017,920,0,0,0,0,0,cash1486113574184,cash,delivered,delivery,#N/A
+V9F0xG8PZ3,3/2/2017,551.25,625,93.75,0,20,0,zomato online,other,delivered,delivery,#N/A
+pAMIcorlfa,2/2/2017,220,220,0,0,0,0,cash1486059592995,cash,delivered,inStore,#N/A
+onIrqW07lx,2/2/2017,245,245,0,0,0,0,paytm online,other,delivered,inStore,#N/A
+cKusjKdQyg,2/2/2017,457.5,520,82.5,0,20,0,zomato online,other,delivered,delivery,#N/A
+gPdZBTzvww,2/2/2017,249.5,270,40.5,0,20,0,zomato online,other,delivered,delivery,#N/A
+YBGZzuAsYd,2/2/2017,225,225,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+W6pfG8pgBv,2/2/2017,140,140,0,0,0,0,cash1486051328465,cash,delivered,inStore,#N/A
+DpYxyIUhsB,2/2/2017,293.25,325,51.75,0,20,0,zomato online,other,delivered,delivery,#N/A
+YQACVp0pV2,2/2/2017,530,530,0,0,0,0,card1486051387605,card,delivered,delivery,#N/A
+Sn8w8rgtd8,2/2/2017,1265,1490,225,0,0,0,cash1486060689443,cash,delivered,inStore,#N/A
+R0iuDRwgDH,2/2/2017,0,0,0,0,0,0,#N/A,#N/A,cancelled,delivery,Added this by mistake
+5xpuWU0CCZ,2/2/2017,296.25,325,48.75,0,20,0,zomato cash,other,delivered,delivery,#N/A
+L8Q2bvemBB,2/2/2017,265,265,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+8AJeFHRam1,2/2/2017,0,0,0,0,0,0,#N/A,#N/A,cancelled,delivery,Added this by mistake
+VYgW8G7qF7,2/2/2017,0,0,0,0,0,0,#N/A,#N/A,cancelled,delivery,Added this by mistake
+oBmaZQLa96,2/2/2017,0,0,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+u7VUplLClg,2/2/2017,0,0,0,0,0,0,#N/A,#N/A,cancelled,delivery,Customer requested cancellation
+bMgVXkOLIw,2/2/2017,0,0,0,0,0,0,#N/A,#N/A,cancelled,delivery,Added this by mistake
+VEJROeW58H,2/2/2017,0,0,0,0,0,0,#N/A,#N/A,cancelled,delivery,Added this by mistake
+DE9xCktHla,2/2/2017,265,265,0,0,0,0,card1486045611655,card,delivered,inStore,#N/A
+IvvvnwDRi5,2/2/2017,395,395,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+y0cIZi5dlA,2/2/2017,490,490,0,0,0,0,cash1486043279927,cash,delivered,delivery,#N/A
+mNiQ26fIt6,2/2/2017,265,265,0,0,0,0,cash1486030383868,cash,delivered,delivery,#N/A
+KNZ4kbRJd0,2/2/2017,1375,1375,0,0,0,0,card1486027839504,card,delivered,inStore,#N/A
+mog6NEqAe7,2/2/2017,375,375,0,0,0,0,cash1486029715288,cash,delivered,inStore,#N/A
+uzt8HalaqR,2/2/2017,195,195,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+RFU2gDWi4M,2/2/2017,130,130,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+qhqzX05rRo,2/2/2017,450,450,0,0,0,0,cash1486026764580,cash,delivered,delivery,#N/A
+xmRgctJUEc,2/2/2017,1020,1020,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+TEgB2kSKqF,2/2/2017,355,355,0,0,0,0,cash1486023471428,cash,delivered,inStore,#N/A
+2sIVdHJgM2,2/2/2017,470,470,0,0,0,0,cash1486025004588,cash,delivered,delivery,#N/A
+Fbj52ikDVB,2/2/2017,225,225,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+qNl9B1gON2,1/2/2017,333,370,57,0,20,0,zomato online,other,delivered,delivery,#N/A
+iFPokgokFj,1/2/2017,215,195,0,0,20,0,zomato online,other,delivered,delivery,#N/A
+WrMH8pkDLZ,1/2/2017,372.75,415,62.25,0,20,0,zomato online,other,delivered,delivery,#N/A
+uq0lO24PFq,1/2/2017,245,245,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+RJYgA23K8F,1/2/2017,245.25,265,39.75,0,20,0,zomato online,other,delivered,delivery,#N/A
+Kfope5j4Ro,1/2/2017,550,550,0,0,0,0,cash1485969398491,cash,delivered,inStore,#N/A
+Fz8ttgp7YU,1/2/2017,280,280,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+vzG8JISTEM,1/2/2017,420,420,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+nwxlTWLD2I,1/2/2017,1699,1699,0,0,0,0,card1485966583345,card,delivered,delivery,#N/A
+raO8nXYjiZ,1/2/2017,265,265,0,0,0,0,cash1485964756449,cash,delivered,inStore,#N/A
+wN4A07jIjQ,1/2/2017,0,0,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+X0h72Q9y3T,1/2/2017,245.25,265,39.75,0,20,0,zomato cash,other,delivered,delivery,#N/A
+gEFqlAHXtz,1/2/2017,398.25,445,66.75,0,20,0,zomato online,other,delivered,delivery,#N/A
+Qfh4IUEX4C,1/2/2017,487.5,550,82.5,0,20,0,zomato online,other,delivered,delivery,#N/A
+vjqorfWNwj,1/2/2017,475,475,0,0,0,0,cash1485962497236,cash,delivered,delivery,#N/A
+wEiGi43z5A,1/2/2017,300,300,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+J8lQpsreVQ,1/2/2017,495,495,0,0,0,0,card1485957119785,card,delivered,inStore,#N/A
+JiSkO2AF8g,1/2/2017,442,520,78,0,0,0,cash1485971899583,cash,delivered,inStore,#N/A
+eeTNgKSQKR,1/2/2017,245,245,0,0,0,0,card1485941775619,card,delivered,inStore,#N/A
+2DUiAB2fNb,1/2/2017,440,440,0,0,0,0,cash1485940743061,cash,delivered,delivery,#N/A
+0NQCFoGOrg,1/2/2017,420,420,0,0,0,0,card1485941399361,card,delivered,inStore,#N/A
+46ttqzejKA,1/2/2017,510,510,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+7XFerYEdOO,1/2/2017,660,660,0,0,0,0,card1485937925881,card,delivered,inStore,#N/A
+d0vRkATb7f,1/2/2017,815,815,0,0,0,0,card1485941191742,card,delivered,inStore,#N/A
+cvkmgqFUip,1/2/2017,431.25,490,78.75,0,20,0,zomato online,other,delivered,delivery,#N/A
+DiTl90xpep,1/2/2017,225,205,0,0,20,0,zomato online,other,delivered,delivery,#N/A
+Fiw55ecVT8,1/2/2017,545,545,0,0,0,0,cash1485936659491,cash,delivered,inStore,#N/A
+L60ZvdVCCs,31/01/2017,185,185,0,0,0,0,cash1485886346815,cash,delivered,inStore,#N/A
+DsMKFeiluv,31/01/2017,508,565,57,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+GSnSJCLZau,31/01/2017,254,275,41.2,0,20,0,zomato online,other,delivered,delivery,#N/A
+952tOQm7SI,31/01/2017,225,225,0,0,0,0,zomato online,other,delivered,inStore,#N/A
+r0nb80gDG8,31/01/2017,295,295,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+aqDQAZvnkk,31/01/2017,1165,1165,0,0,0,0,cash1485879437774,cash,delivered,inStore,#N/A
+ujTWMZEWYb,31/01/2017,260,260,0,0,0,0,cash1485874166945,cash,delivered,inStore,#N/A
+IHMg4jn6sL,31/01/2017,343,380,57,0,20,0,zomato online,other,delivered,delivery,#N/A
+zwclpPhv8e,31/01/2017,700,700,0,0,0,0,cash1485876037239,cash,delivered,delivery,#N/A
+0aHfp8mSP1,31/01/2017,515,515,0,0,0,0,cash1485872856517,cash,delivered,delivery,#N/A
+KaV9VwAQbl,31/01/2017,0,0,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+qaeKWOvt77,31/01/2017,195,195,0,0,0,0,cash1485858684669,cash,delivered,inStore,#N/A
+mI64eLCiBF,31/01/2017,195,195,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+XAfTm9HMD5,31/01/2017,225,225,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+iehglbnwJH,31/01/2017,355,355,0,0,0,0,cash1485859242220,cash,delivered,inStore,#N/A
+nAT1p3vQKN,31/01/2017,440,440,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+X8qXyjpEen,31/01/2017,400,400,0,0,0,0,400,other,delivered,inStore,#N/A
+GYbLbrMw8G,31/01/2017,280,280,0,0,0,0,cash1485853112375,cash,delivered,inStore,#N/A
+QGnYil19Hm,31/01/2017,520,520,0,0,0,0,cash1485852650427,cash,delivered,delivery,#N/A
+T0A1fKgVkQ,30/01/2017,560,560,0,0,0,0,zomato online,other,delivered,inStore,#N/A
+xdiXr4tFc7,30/01/2017,245,245,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+1WgJOFGEwF,30/01/2017,265,265,0,0,0,0,zomato online,other,delivered,inStore,#N/A
+lKmfFMMGQc,30/01/2017,225,225,0,0,0,0,zomato online,other,delivered,inStore,#N/A
+OL6Mv0svFb,30/01/2017,245,245,0,0,0,0,zomato online,other,delivered,inStore,#N/A
+ynsYvRFhB4,30/01/2017,245,245,0,0,0,0,zomato online,other,delivered,delivery,#N/A
+XsLCdnzq9H,30/01/2017,245,245,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+jrboiF4vu3,30/01/2017,490,490,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+13SwxBK7PZ,30/01/2017,530,600,90,0,20,0,zomato online,other,delivered,delivery,#N/A
+RgzE4dDHVj,30/01/2017,225,225,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+a5MuBxeRJ9,30/01/2017,246,265,39.75,0,20,0,zomato cash,other,delivered,delivery,#N/A
+r2xZHAr2PK,30/01/2017,505,570,85.5,0,20,0,zomato online,other,delivered,delivery,#N/A
+g0PZbD7OC8,30/01/2017,166,185,19,0,0,0,cash1485799842397,cash,delivered,inStore,#N/A
+x3lGO1PG8P,30/01/2017,140,140,0,0,0,0,cash1485792451397,cash,delivered,delivery,#N/A
+U3kaDWfzXo,30/01/2017,90,90,0,0,0,0,cash1485790422744,cash,delivered,inStore,#N/A
+8mAGTsFO0T,30/01/2017,245,245,0,0,0,0,card1485788357438,card,delivered,inStore,#N/A
+GdbYEuuzsu,30/01/2017,275,275,0,0,0,0,cash1485777001148,cash,delivered,inStore,#N/A
+KMf4bHFdFa,30/01/2017,225,225,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+h1lj4tdmds,30/01/2017,185,185,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+OZwWHUTJJU,30/01/2017,1030,1030,0,0,0,0,cash1485777380238,cash,delivered,inStore,#N/A
+yHj5B7zPU4,30/01/2017,970,970,0,0,0,0,cash1485777401459,cash,delivered,inStore,#N/A
+CFfrYEt4OB,30/01/2017,960,960,0,0,0,0,cash1485777129624,cash,delivered,inStore,#N/A
+7kKFhGsPyN,30/01/2017,385,385,0,0,0,0,cash1485776741045,cash,delivered,inStore,#N/A
+0dlQbKbrHz,30/01/2017,745,745,0,0,0,0,cash1485776881649,cash,delivered,inStore,#N/A
+0eHARyEFTc,30/01/2017,215,215,0,0,0,0,cash1485773980050,cash,delivered,inStore,#N/A
+5xG5ZJU9WD,30/01/2017,407,460,73.5,0,20,0,zomato online,other,delivered,delivery,#N/A
+jJd8BcP5r3,30/01/2017,509,575,86.25,0,20,0,zomato onlne,other,delivered,delivery,#N/A
+OCZVzp1xKB,30/01/2017,300,300,0,0,0,0,cash1485766855083,cash,delivered,inStore,#N/A
+hOvh1vLSbd,30/01/2017,241,260,39,0,20,0,zomato online,other,delivered,delivery,#N/A
+sd2cWQV3gv,30/01/2017,265,265,0,0,0,0,cash1485766434747,cash,delivered,inStore,#N/A
+N5VwQFleeS,30/01/2017,150,150,0,0,0,0,cash1485766879801,cash,delivered,delivery,#N/A
+6lhyLEXuqE,29/01/2017,315,315,0,0,0,0,card1485714230366,card,delivered,inStore,#N/A
+rf9RxNk684,29/01/2017,263,285,42.75,0,20,0,zomato online,other,delivered,delivery,#N/A
+ieK6FyRhfG,29/01/2017,263,285,42.75,0,20,0,zomato online,other,delivered,delivery,#N/A
+FB5fyxmYnw,29/01/2017,225,225,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+FqAaVf2SM7,29/01/2017,628,715,107.25,0,20,0,zomato cash,other,delivered,delivery,#N/A
+QaAsGZm8dG,29/01/2017,45,45,0,0,0,0,cash1485712418046,cash,delivered,inStore,#N/A
+RAqhlYbEXX,29/01/2017,290,290,0,0,0,0,zomato online,other,delivered,inStore,#N/A
+FCGfNQg4A2,29/01/2017,695,695,0,0,0,0,card1485713853412,card,delivered,inStore,#N/A
+g5l4NyrKzL,29/01/2017,285,285,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+CVV0o9IWAT,29/01/2017,245,225,0,0,20,0,zomato cash,other,delivered,delivery,#N/A
+FDStXH88fv,29/01/2017,285,285,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+Y4W93P00FY,29/01/2017,140,140,0,0,0,0,cash1485710207019,cash,delivered,inStore,#N/A
+HkIjACzDcD,29/01/2017,490,490,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+v18C9AIbTX,29/01/2017,0,0,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+ahRjbDJNjq,29/01/2017,205,205,0,0,0,0,card1485707220593,card,delivered,inStore,#N/A
+pBjr7Zib4I,29/01/2017,245,245,0,0,0,0,cash1485707540211,cash,delivered,delivery,#N/A
+c3UqtnUq15,29/01/2017,745,745,0,0,0,0,cash1485708575100,cash,delivered,inStore,#N/A
+cr8LV8fDOj,29/01/2017,1015,1015,0,0,0,0,cash1485709107868,cash,delivered,inStore,#N/A
+1iKIIwOP9g,29/01/2017,225,225,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+jpC4qSy27s,29/01/2017,424,475,71.25,0,20,0,zomato online,other,delivered,delivery,#N/A
+DmDDLOfyre,29/01/2017,263,285,42.75,0,20,0,zomato cash,other,delivered,delivery,#N/A
+XXxh6Fb4YN,29/01/2017,420,470,70.5,0,20,0,zomato  online,other,delivered,delivery,#N/A
+SkrohccrGm,29/01/2017,225,225,0,0,0,0,cash1485703930966,cash,delivered,inStore,#N/A
+ShGQRfgPEV,29/01/2017,267,290,43.5,0,20,0,zomato cash,other,delivered,delivery,#N/A
+2dpyrOqi9E,29/01/2017,339,375,56.25,0,20,0,zomato online,other,delivered,delivery,#N/A
+LNbmrGV0mb,29/01/2017,586,665,99.75,0,20,0,zomato online,other,delivered,delivery,#N/A
+yB9V1fG4Ss,29/01/2017,435,435,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+CTfdmhQTZc,29/01/2017,120,120,0,0,0,0,cash1485701392226,cash,delivered,inStore,#N/A
+AYE1FxkjDk,29/01/2017,385,385,0,0,0,0,swiggy online,other,cancelled,inStore,Added this by mistake
+T8ioR8o0Tp,29/01/2017,420,495,75,0,0,0,cash1485711748241,cash,delivered,inStore,#N/A
+OTJHgb0RD3,29/01/2017,220,220,0,0,0,0,cash1485681203202,cash,delivered,inStore,#N/A
+egFz9MsYla,29/01/2017,420,470,70.5,0,20,0,zomato cash,other,delivered,delivery,#N/A
+FJpYeEfcAZ,29/01/2017,845,845,0,0,0,0,cash1485682512927,cash,delivered,inStore,#N/A
+p2FsIOebJE,29/01/2017,470,470,0,0,0,0,cash1485682313879,cash,delivered,delivery,#N/A
+5y6Qzz0cdW,29/01/2017,246,265,39.75,0,20,0,zomato cash,other,delivered,delivery,#N/A
+7sA00tqoVk,29/01/2017,305,305,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+qLMDefv377,29/01/2017,430,430,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+RLOVB4uAGX,29/01/2017,620,705,105.75,0,20,0,zomato online,other,delivered,delivery,#N/A
+B8UFkvAVHZ,29/01/2017,1315,1295,0,0,20,0,card1485677361974,card,delivered,delivery,#N/A
+n7EPy5XEh8,29/01/2017,530,530,0,0,0,0,cash1485675887963,cash,delivered,delivery,#N/A
+gXRlNVkooP,29/01/2017,490,490,0,0,0,0,card1485673187392,card,delivered,delivery,#N/A
+1gvToqdNwm,29/01/2017,240,240,0,0,0,0,card1485670872646,card,delivered,delivery,#N/A
+ABYvcfS0Bn,28/01/2017,735,735,0,0,0,0,cash1485627853384,cash,delivered,inStore,#N/A
+3YAJO1eq1l,28/01/2017,265,265,0,0,0,0,cash1485627572118,cash,delivered,inStore,#N/A
+KGuEHmtFwv,28/01/2017,265,245,0,0,20,0,cash1485627167520,cash,delivered,delivery,#N/A
+XfxWu3DELA,28/01/2017,205,205,0,0,0,0,card1485625887208,card,delivered,inStore,#N/A
+KyPxkMvnZ6,28/01/2017,1605,1605,0,0,0,0,cash1485626215193,cash,delivered,delivery,#N/A
+LomfxBRqG0,28/01/2017,263,285,42.75,0,20,0,zomato online,other,delivered,delivery,#N/A
+K6JaXMiIej,28/01/2017,500,500,0,0,0,0,swiggy online,other,delivered,delivery,#N/A
+fUasrvRscT,28/01/2017,325,325,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+DWf2B7fgLi,28/01/2017,260,260,0,0,0,0,zomato onl ine,other,delivered,inStore,#N/A
+hSDmUgJ5Z5,28/01/2017,265,265,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+12YbAb36vP,28/01/2017,460,460,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+lzLn55F6kp,28/01/2017,225,225,0,0,0,0,cash1485617708974,cash,delivered,delivery,#N/A
+kXLvvlk0NC,28/01/2017,645,645,0,0,0,0,card1485616740728,card,delivered,delivery,#N/A
+1aGb3VZtAG,28/01/2017,670,670,0,0,0,0,cash1485615349840,cash,delivered,delivery,#N/A
+vP8Po3l4f7,28/01/2017,270,300,30,0,0,0,cash1485624967073,cash,delivered,inStore,#N/A
+avBGVl9vHQ,28/01/2017,275,275,0,0,0,0,cash1485610423673,cash,delivered,inStore,#N/A
+gRyRkY1Geh,28/01/2017,225,225,0,0,0,0,cash1485608724815,cash,delivered,inStore,#N/A
+MKgABYlaG7,28/01/2017,950,950,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+LgCCElTfEf,28/01/2017,246,265,39.75,0,20,0,zomato online,other,delivered,delivery,#N/A
+6ZzaNN0NZs,28/01/2017,225,225,0,0,0,0,card1485596796109,card,delivered,inStore,#N/A
+G9sWWqLHQa,28/01/2017,865,865,0,0,0,0,card1485608760893,card,delivered,inStore,#N/A
+zIdKEaR8bY,28/01/2017,1000,1000,0,0,0,0,cash1485593456633,cash,delivered,inStore,#N/A
+kJH6HAGiwH,28/01/2017,225,225,0,0,0,0,cash1485588611362,cash,delivered,delivery,#N/A
+QIua2FQh2U,27/01/2017,394,440,66,0,20,0,zomato online,other,delivered,delivery,#N/A
+Yoh4C1ABW0,27/01/2017,285,265,0,0,20,0,zomato online,other,delivered,delivery,#N/A
+j9jwIdndb9,27/01/2017,573,650,97.5,0,20,0,zomato online,other,delivered,delivery,#N/A
+pZbUtuOTWg,27/01/2017,545,545,0,0,0,0,cash1485536845075,cash,delivered,inStore,#N/A
+tGQUgGNEUU,27/01/2017,345,345,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+RmL3k3DK7o,27/01/2017,410,410,0,0,0,0,cash1485533843654,cash,delivered,inStore,#N/A
+bgfngvi6P3,27/01/2017,265,265,0,0,0,0,swiggy online,other,delivered,delivery,#N/A
+0g1SltNyX3,27/01/2017,420,470,70.5,0,20,0,zomato online,other,delivered,delivery,#N/A
+asuDDhxp3l,27/01/2017,611,695,104.25,0,20,0,zomato cash,other,delivered,delivery,#N/A
+dMmn9GlBcD,27/01/2017,230,230,0,0,0,0,cash1485529833384,cash,delivered,delivery,#N/A
+GpQZmjaoHo,27/01/2017,120,120,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+U53VTc4rpl,27/01/2017,245,245,0,0,0,0,cash1485528794908,cash,delivered,delivery,#N/A
+ohOWrcgj8w,27/01/2017,490,490,0,0,0,0,card1485526185468,card,delivered,inStore,#N/A
+iI3G78sILx,27/01/2017,285,285,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+d4TgoUxn3v,27/01/2017,290,290,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+WpJTdTe06E,27/01/2017,675,675,0,0,0,0,cash1485526983032,cash,delivered,inStore,#N/A
+9oJ7s0TiOy,27/01/2017,540,540,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+yqNKrcS9sb,27/01/2017,430,430,0,0,0,0,cash1485511924024,cash,delivered,inStore,#N/A
+Aa19SDPFsN,27/01/2017,245,245,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+q5SksU1MOk,27/01/2017,1265,1265,0,0,0,0,cash1485509633311,cash,delivered,inStore,#N/A
+0BNxbOQmHB,27/01/2017,470,470,0,0,0,0,cash1485510636090,cash,delivered,inStore,#N/A
+SyEbBzBoqi,27/01/2017,471,530,79.5,0,20,0,zomato cash,other,delivered,delivery,#N/A
+4XvZBFTZ7U,27/01/2017,355,355,0,0,0,0,card1485506349698,card,delivered,inStore,#N/A
+X9sFUNmSC7,27/01/2017,1449,1610,161,0,0,0,cash1485540210195,cash,delivered,inStore,#N/A
+59yP17RNXz,27/01/2017,245,245,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+2T2gFIGnHI,27/01/2017,675,675,0,0,0,0,cash1485502734145,cash,delivered,inStore,#N/A
+7iVL1y50qJ,26/01/2017,975,975,0,0,0,0,zomato online,other,delivered,inStore,#N/A
+kFdybgLZuu,26/01/2017,245,245,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+rdFU9E5tBc,26/01/2017,245,225,0,0,20,0,zomato online,other,delivered,delivery,#N/A
+ryhauUbjph,26/01/2017,885,885,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+ynGzc7LFMS,26/01/2017,885,885,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+AG7Lft4isg,26/01/2017,2088,2455,367,0,0,0,cash1485456002140,cash,delivered,inStore,#N/A
+yOeDi9bcsb,26/01/2017,325,325,0,0,0,0,cash1485451163918,cash,delivered,inStore,#N/A
+QQEc9P7GBj,26/01/2017,535,535,0,0,0,0,cash1485454202623,cash,delivered,inStore,#N/A
+SQ9h089GkA,26/01/2017,535,535,0,0,0,0,cash1485453007195,cash,delivered,inStore,#N/A
+PJKpYknkyf,26/01/2017,470,470,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+AdJeb53GTa,26/01/2017,320,320,0,0,0,0,cash1485449754730,cash,delivered,delivery,#N/A
+EeYjFa8mPn,26/01/2017,263,285,42.75,0,20,0,zomato cash,other,delivered,delivery,#N/A
+mpovgzoD0Y,26/01/2017,195,195,0,0,0,0,cash1485445309536,cash,delivered,delivery,#N/A
+hg9oqIJVjC,26/01/2017,356,395,59.25,0,20,0,zomato online,other,delivered,delivery,#N/A
+hBhu6yQByQ,26/01/2017,620,705,105.75,0,20,0,zomato cash,other,delivered,delivery,#N/A
+wVtJ7aFTT2,26/01/2017,510,490,0,0,20,0,cash1485445600753,cash,delivered,delivery,#N/A
+bqAF29kukD,26/01/2017,297,325,48.75,0,20,0,zomato online,other,delivered,delivery,#N/A
+lNneBCuaK6,26/01/2017,565,565,0,0,0,0,cash1485441893575,cash,delivered,inStore,#N/A
+vHx4RrUhVs,26/01/2017,765,765,0,0,0,0,card1485426295733,card,delivered,inStore,#N/A
+DdSraRvWiO,26/01/2017,543,615,92.25,0,20,0,zomato online,other,delivered,delivery,#N/A
+1TudQNllG2,26/01/2017,400,400,0,0,0,0,cash1485428010617,cash,delivered,inStore,#N/A
+7ComuiZjlt,26/01/2017,785,685,0,0,100,0,#N/A,#N/A,cancelled,delivery,Added this by mistake
+hragN8Aduy,26/01/2017,200,200,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+59TXbYN4TR,26/01/2017,1090,1040,0,0,50,0,paytm,other,delivered,delivery,#N/A
+VEdB4t0oGq,26/01/2017,420,470,70.5,0,20,0,zomato online,other,delivered,delivery,#N/A
+9XWJrLOtYE,26/01/2017,488,550,82.5,0,20,0,zomato cash,other,delivered,delivery,#N/A
+3EEkBMGvzC,26/01/2017,454,510,76.5,0,20,0,zomato online,other,delivered,delivery,#N/A
+aap5a1DuGs,26/01/2017,1295,1245,50,0,100,0,#N/A,#N/A,cancelled,delivery,Added this by mistake
+pJqDNBLSLr,26/01/2017,1245,1245,0,0,0,0,swiggy online,other,delivered,delivery,#N/A
+qXpw9PTWom,26/01/2017,550,550,0,0,0,0,cash1485417443350,cash,delivered,delivery,#N/A
+Xvt6yUfBy4,26/01/2017,0,0,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+DCeyTyhb62,25/01/2017,245,245,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+vmdL0Gpq2G,25/01/2017,195,195,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+L98ovghHiE,25/01/2017,195,195,0,0,0,0,cash1485368658007,cash,delivered,inStore,#N/A
+Hf7MwzVPnf,25/01/2017,454,510,76.5,0,20,0,zomato online,other,delivered,delivery,#N/A
+4R9PoDUxMB,25/01/2017,195,195,0,0,0,0,cash1485366110606,cash,delivered,inStore,#N/A
+kjFXlGbP1U,25/01/2017,675,675,0,0,0,0,card1485366777061,card,delivered,inStore,#N/A
+gFAMxzsvLg,25/01/2017,335,335,0,0,0,0,zomato cash,other,delivered,delivery,#N/A
+YJdCROdJ2F,25/01/2017,275,275,0,0,0,0,cash1485362088878,cash,delivered,inStore,#N/A
+JT5Q38KRZJ,25/01/2017,245,245,0,0,0,0,cash1485360059324,cash,delivered,inStore,#N/A
+gBOtlWBsQ0,25/01/2017,245,245,0,0,0,0,card1485359940403,card,delivered,inStore,#N/A
+UkL47esxkS,25/01/2017,715,695,0,0,20,0,cash1485360919035,cash,delivered,delivery,#N/A
+WKN2AA4OEi,25/01/2017,325,325,0,0,0,0,card1485355592565,card,delivered,inStore,#N/A
+ZMQkv31xGg,25/01/2017,1725,1675,0,0,50,0,cash1485360973190,cash,delivered,delivery,#N/A
+OFANr3VESY,25/01/2017,290,290,0,0,0,0,#N/A,#N/A,cancelled,delivery,Added this by mistake
+TX0kJJBlMT,25/01/2017,665,665,0,0,0,0,cash1485354584321,cash,delivered,inStore,#N/A
+dFLeDbJmen,25/01/2017,225,225,0,0,0,0,cash1485343501206,cash,delivered,delivery,#N/A
+0ksWBrycyb,25/01/2017,1091,1260,189,0,20,0,zomato online,zomato,delivered,delivery,#N/A
+54mAjNzgEU,25/01/2017,4016,4185,189,0,20,0,#N/A,#N/A,cancelled,delivery,Added this by mistake
+yWWBFkzCg0,25/01/2017,405,405,0,0,0,0,cash1485340284264,cash,delivered,delivery,#N/A
+omkxZAZ0rg,25/01/2017,403,450,67.5,0,20,0,zomato cash,other,delivered,delivery,#N/A
+GGwehKghMG,25/01/2017,245,225,0,0,20,0,zomato online,other,delivered,delivery,#N/A
+0149paEHGd,25/01/2017,440,440,0,0,0,0,swiggy online,other,delivered,delivery,#N/A
+IGgXHfDkoh,25/01/2017,267,290,43.5,0,20,0,zomato online,other,delivered,delivery,#N/A
+pfri6PZbCD,25/01/2017,4390,4390,0,0,0,0,card1485336063605,card,delivered,inStore,#N/A
+dsACbz9m1f,25/01/2017,0,0,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+1ihXucgAgw,25/01/2017,245,245,0,0,0,0,cash1485331474976,cash,delivered,delivery,#N/A
+V1agrHZtpw,25/01/2017,345,345,0,0,0,0,card1485332581244,card,delivered,inStore,#N/A
+6yYMZOwJA8,25/01/2017,1255,1270,15,0,0,0,cash1485367907587,cash,delivered,inStore,#N/A
+A9TxIpXlpI,24/01/2017,205,225,20,0,0,0,cash1485280420292,cash,delivered,inStore,#N/A
+EU3CwXY4uf,24/01/2017,245,225,0,0,20,0,zomato online,other,delivered,delivery,#N/A
+LZTNMDc8Aj,24/01/2017,570,570,0,0,0,0,card1485277871599,card,delivered,inStore,#N/A
+SzuAuhHwox,24/01/2017,265,265,0,0,0,0,zomato online,other,delivered,inStore,#N/A
+xkK2UUn4Xn,24/01/2017,896,1030,154.5,0,20,0,cash1485280058134,cash,delivered,delivery,#N/A
+CSi3roMDJz,24/01/2017,245,245,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+hpvppEatNA,24/01/2017,195,195,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+EeUMdKqoTx,24/01/2017,460,460,0,0,0,0,card1485275955963,card,delivered,inStore,#N/A
+KCRYPCXOBk,24/01/2017,460,460,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+opCaILt4P4,24/01/2017,339,375,56.25,0,20,0,zomato online,other,delivered,delivery,#N/A
+lMEQoqnCnR,24/01/2017,340,340,0,0,0,0,cash1485272356944,cash,delivered,inStore,#N/A
+NQDLXxabEi,24/01/2017,225,225,0,0,0,0,cash1485271807845,cash,delivered,delivery,#N/A
+wTiFQuXOIa,24/01/2017,275,300,45,0,20,0,zomato online,other,delivered,delivery,#N/A
+BqH3E81NBn,24/01/2017,285,285,0,0,0,0,cash1485277447945,cash,delivered,delivery,#N/A
+ngo5WSkd1x,24/01/2017,285,285,0,0,0,0,#N/A,#N/A,cancelled,delivery,Added this by mistake
+SFaV4gyMlb,24/01/2017,0,0,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+YRVlA1HRi2,24/01/2017,320,320,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+Q2AEtjiqPj,24/01/2017,885,885,0,0,0,0,cash1485254772462,cash,delivered,inStore,#N/A
+vzAhNPbEHZ,24/01/2017,2440,2875,435,0,0,0,cash1485279961334,cash,delivered,inStore,#N/A
+cPpmaULSs0,24/01/2017,365,365,0,0,0,0,cash1485248343837,cash,delivered,delivery,#N/A
+FsmEyMVBDG,24/01/2017,150,150,0,0,0,0,cash1485245546703,cash,delivered,inStore,#N/A
+3daeGilBw5,23/01/2017,265,245,0,0,20,0,cash1485193788431,cash,delivered,delivery,#N/A
+I7LKGlXNzG,23/01/2017,0,0,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+cQkVIM6k9d,23/01/2017,320,320,0,0,0,0,cash1485196454856,cash,delivered,delivery,#N/A
+HkeedvNPl8,23/01/2017,140,140,0,0,0,0,cash1485192870551,cash,delivered,inStore,#N/A
+GgoqbloiF9,23/01/2017,345,345,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+kOn32xuxvS,23/01/2017,450,450,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+kjLhoePMB2,23/01/2017,237,255,38.25,0,20,0,zomato online,other,delivered,delivery,#N/A
+uaBT7aHvxH,23/01/2017,665,665,0,0,0,0,#N/A,#N/A,cancelled,delivery,Added this by mistake
+QFlvM0wPPw,23/01/2017,665,665,0,0,0,0,card1485186084965,card,delivered,delivery,#N/A
+Fg3U4PYZet,23/01/2017,375,375,0,0,0,0,cash1485186141231,cash,delivered,delivery,#N/A
+Cm9UvdcMsr,23/01/2017,515,515,0,0,0,0,paytm online,other,delivered,inStore,#N/A
+9eBDbZK8W9,23/01/2017,195,195,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+IgztRl7uXu,23/01/2017,200,200,0,0,0,0,cash1485194170948,cash,delivered,delivery,#N/A
+ROpaMqTWbz,23/01/2017,265,265,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+NNgWjZ1rdo,23/01/2017,2997,2997,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+L2zEUfr1QM,23/01/2017,360,360,0,0,0,0,cash1485166033364,cash,delivered,delivery,#N/A
+AB0YuDzs1g,23/01/2017,394,440,66,0,20,0,zomato onine,other,delivered,delivery,#N/A
+ZiVmQIhM3F,23/01/2017,380,360,0,0,20,0,#N/A,#N/A,cancelled,delivery,Added this by mistake
+BlpNZLGRFE,23/01/2017,215,195,0,0,20,0,zomato online,other,delivered,delivery,#N/A
+GO5AtD10DI,23/01/2017,645,735,110.25,0,20,0,zomato cash,other,delivered,delivery,#N/A
+jfNZHp5khC,23/01/2017,215,215,0,0,0,0,cash1485159221146,cash,delivered,inStore,#N/A
+TD8MGghCXp,23/01/2017,870,960,110.25,0,20,0,#N/A,#N/A,cancelled,delivery,Added this by mistake
+XaQyfQiMIK,23/01/2017,300,280,0,0,20,0,cash1485159276233,cash,delivered,delivery,#N/A
+Rd0Y40UpXL,22/01/2017,265,265,0,0,0,0,zomato online,other,delivered,inStore,#N/A
+SnDFGKf1E3,22/01/2017,265,265,0,0,0,0,zomato online,other,delivered,inStore,#N/A
+6HCwCeItTa,22/01/2017,785,785,0,0,0,0,cash1485106927688,cash,delivered,inStore,#N/A
+9MIFFfCQfv,22/01/2017,265,265,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+XnUD7XMHOO,22/01/2017,180,180,0,0,0,0,cash1485106316592,cash,delivered,delivery,#N/A
+e6P36Ei1BE,22/01/2017,500,500,0,0,0,0,cash1485104692891,cash,delivered,delivery,#N/A
+fVj1GIWz87,22/01/2017,540,540,0,0,0,0,card1485104811230,card,delivered,inStore,#N/A
+asAB5ZACQm,22/01/2017,470,515,45,0,0,0,card1485105917236,card,delivered,inStore,#N/A
+Vs0Z6GojZg,22/01/2017,322,355,53.25,0,20,0,cash1485104066045,cash,delivered,delivery,#N/A
+wG31Vthzkd,22/01/2017,842,935,93,0,0,0,cash1485107402077,cash,delivered,delivery,#N/A
+PqwutAgwSm,22/01/2017,375,355,0,0,20,0,#N/A,#N/A,cancelled,delivery,Added this by mistake
+COdiNkWglE,22/01/2017,265,265,0,0,0,0,cash1485101646211,cash,delivered,delivery,#N/A
+Or2hDNEDDv,22/01/2017,375,355,0,0,20,0,#N/A,#N/A,cancelled,delivery,Added this by mistake
+KMBDLNpCd6,22/01/2017,530,530,0,0,0,0,cash1485102785471,cash,delivered,delivery,#N/A
+zFt7bN8vTP,22/01/2017,480,480,0,0,0,0,card1485100742754,card,delivered,inStore,#N/A
+MAEmyMevBX,22/01/2017,241,260,39,0,20,0,zomato online,other,delivered,delivery,#N/A
+CnCvHCALHl,22/01/2017,920,900,0,0,20,0,cash1485099680754,cash,delivered,delivery,#N/A
+c7pXPFtpcB,22/01/2017,437,490,73.5,0,20,0,zomato online,other,delivered,delivery,#N/A
+MNEFIRwf8j,22/01/2017,450,450,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+EG4W7RAh27,22/01/2017,675,655,0,0,20,0,cash1485097440823,cash,delivered,delivery,#N/A
+QEbHdvscyP,22/01/2017,267,290,43.5,0,20,0,cash1485095633285,cash,delivered,delivery,#N/A
+tWgs6D7NAc,22/01/2017,512,535,43.5,0,20,0,#N/A,#N/A,cancelled,delivery,Added this by mistake
+MO7CGD1cyt,22/01/2017,315,350,35,0,0,0,cash1485107700233,cash,delivered,inStore,#N/A
+3IYfu85OXr,22/01/2017,1615,1615,0,0,0,0,cash1485084243133,cash,delivered,inStore,#N/A
+MWGylRuylg,22/01/2017,1065,1065,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+nk6Xte7QMX,22/01/2017,586,665,99.75,0,20,0,zomato online,other,delivered,delivery,#N/A
+gUaUZPttct,22/01/2017,245,245,0,0,0,0,cash1485078531292,cash,delivered,delivery,#N/A
+cTiZRwczqe,22/01/2017,365,365,0,0,0,0,zomato cash,other,delivered,delivery,#N/A
+Vlh5pHvlIh,22/01/2017,610,610,0,0,0,0,zomato online,other,delivered,delivery,#N/A
+2mJe3MUEqe,22/01/2017,510,510,0,0,0,0,zomato online,other,delivered,delivery,#N/A
+5o7hJrpzpD,22/01/2017,195,195,0,0,0,0,swiggy online,other,delivered,delivery,#N/A
+m7Wq8aw7q0,22/01/2017,628,715,107.25,0,20,0,zomato online,other,delivered,delivery,#N/A
+UZaRfzAMQX,22/01/2017,192,245,73.5,0,20,0,zomato cash,other,delivered,delivery,#N/A
+GiBywYaOOm,22/01/2017,285,285,0,0,0,0,zomato online,other,delivered,delivery,#N/A
+0dCGogrY0f,22/01/2017,245,225,0,0,20,0,zomato online,other,delivered,delivery,#N/A
+G6n3ZuaStg,22/01/2017,310,310,0,0,0,0,swiggy online,other,delivered,delivery,#N/A
+m8Dx7NUOX3,22/01/2017,65,65,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+xNkT1xVwIC,22/01/2017,615,615,0,0,0,0,cash1485079786106,cash,delivered,delivery,#N/A
+eiHyJy7zSQ,22/01/2017,855,855,0,0,0,0,cash1485074576111,cash,delivered,delivery,#N/A
+Dq08rrR1N1,22/01/2017,520,520,0,0,0,0,cash1485070979818,cash,delivered,delivery,#N/A
+xyNq9p37RM,21/01/2017,140,140,0,0,0,0,cash1485023434296,cash,delivered,inStore,#N/A
+zsEGPD6NCB,21/01/2017,495,495,0,0,0,0,cash1485023455036,cash,delivered,inStore,#N/A
+nBEDCHv8Xd,21/01/2017,245,245,0,0,0,0,cash1485021287655,cash,delivered,inStore,#N/A
+jaurcxZCH5,21/01/2017,225,225,0,0,0,0,cash1485020720209,cash,delivered,delivery,#N/A
+7r4c4vvtgt,21/01/2017,460,460,0,0,0,0,zomato online,other,delivered,inStore,#N/A
+FUvsEkN3HE,21/01/2017,263,285,42.75,0,20,0,cash1485020010230,cash,delivered,delivery,#N/A
+D2UBQCtXbH,21/01/2017,940,940,0,0,0,0,card1485017245379,card,delivered,inStore,#N/A
+8J6iZahPZD,21/01/2017,445,445,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+E5MXGg1JsD,21/01/2017,320,320,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+Tz72Oqca8x,21/01/2017,895,895,0,0,0,0,cash1485014417284,cash,delivered,inStore,#N/A
+s5oTQXgjiB,21/01/2017,785,900,135,0,20,0,cash1485017216146,cash,delivered,delivery,#N/A
+6LckAcP2A0,21/01/2017,505,505,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+TM0jVSrZE3,21/01/2017,170,150,0,0,20,0,cash1485014712091,cash,delivered,delivery,#N/A
+Lwj3NSFLVs,21/01/2017,455,455,0,0,0,0,cash1485014573328,cash,delivered,inStore,#N/A
+iTAHq7c4Pz,21/01/2017,545,545,0,0,0,0,card1485013994305,card,delivered,inStore,#N/A
+UFR6NsJe9t,21/01/2017,1100,1100,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+YwisuNS4Rj,21/01/2017,245,225,0,0,20,0,cash1485014745290,cash,delivered,delivery,#N/A
+OnTU3hOEh5,21/01/2017,620,600,0,0,20,0,cash1484995823902,cash,delivered,delivery,#N/A
+01yb0hps69,21/01/2017,600,600,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+vt8tjkRJ9Z,21/01/2017,565,565,0,0,0,0,cash1484995366647,cash,delivered,inStore,#N/A
+UXb68oHCbK,21/01/2017,510,510,0,0,0,0,card1484994686807,card,delivered,inStore,#N/A
+52J2RR2hWN,21/01/2017,1290,1290,0,0,0,0,cash1484995107067,cash,delivered,inStore,#N/A
+gsNHhYznj7,21/01/2017,645,775,150,0,20,0,cash1484996301416,cash,delivered,delivery,#N/A
+eHIAf07MFl,21/01/2017,399,445,66.75,0,20,0,cash1484990904101,cash,delivered,delivery,#N/A
+m1XTqK54HO,21/01/2017,671,765,114.75,0,20,0,zomato online,other,delivered,delivery,#N/A
+0aPgTw7SWn,21/01/2017,559,630,91.5,0,20,0,zomato online,other,delivered,delivery,#N/A
+9tFvP7CnUW,21/01/2017,454,510,76.5,0,20,0,cash1484990664050,cash,delivered,delivery,#N/A
+yvEZBhjfRo,21/01/2017,245,245,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+EGQBfiOko2,21/01/2017,285,285,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+lxUZ53CjzS,21/01/2017,245,245,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+LtFwT0ITRj,21/01/2017,1420,1420,0,0,0,0,cash1484993999347,cash,delivered,inStore,#N/A
+GGNkipbnRg,21/01/2017,590,590,0,0,0,0,cash1484992667447,cash,delivered,inStore,#N/A
+G8mO2UZ6Bt,21/01/2017,525,505,0,0,20,0,cash1484992235349,cash,delivered,delivery,#N/A
+ZpqD2MY3ZX,21/01/2017,270,245,0,0,25,0,cash1484989541470,cash,delivered,delivery,#N/A
+iZfdE1HqYY,21/01/2017,225,225,0,0,0,0,cash1484991316321,cash,delivered,delivery,#N/A
+jpXadOFtD4,21/01/2017,0,0,0,0,0,0,#N/A,#N/A,cancelled,delivery,Added this by mistake
+uopb2qeVAC,21/01/2017,225,225,0,0,0,0,#N/A,#N/A,cancelled,delivery,Added this by mistake
+iXoYAqPZfx,21/01/2017,755,755,0,0,0,0,cash1484989311636,cash,delivered,inStore,#N/A
+GR64tyY1OK,21/01/2017,1495,1740,245,0,0,0,cash1485022427998,cash,delivered,inStore,#N/A
+LsNOjp4rll,21/01/2017,245,245,0,0,0,0,cash1484983820173,cash,delivered,delivery,#N/A
+X9KtuogFyv,20/01/2017,265,245,0,0,20,0,cash1484936162726,cash,delivered,delivery,#N/A
+ddyz3cqAeR,20/01/2017,785,900,135,0,20,0,zomato online,other,delivered,delivery,#N/A
+mbrY8lavxY,20/01/2017,266,265,39.75,0,40,0,zomato online,other,delivered,delivery,#N/A
+HWFpR05EQ1,20/01/2017,225,225,0,0,0,0,zomato online,other,delivered,inStore,#N/A
+1MxTr3A5qM,20/01/2017,845,845,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+sHRB6BENDS,20/01/2017,225,225,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+8O1RTqdbZN,20/01/2017,420,470,70.5,0,20,0,cash1484933236556,cash,delivered,delivery,#N/A
+C1TVqAl9pE,20/01/2017,795,795,0,0,0,0,cash1484931649070,cash,delivered,inStore,#N/A
+IPGcMeTB32,20/01/2017,440,440,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+AS9v6uek05,20/01/2017,780,755,0,0,25,0,#N/A,#N/A,cancelled,delivery,Customer requested cancellation
+YiOxHhMt9E,20/01/2017,245,245,0,0,0,0,zomato online,other,delivered,inStore,#N/A
+YQzpil3mku,20/01/2017,365,365,0,0,0,0,zomato  online,other,delivered,delivery,#N/A
+KcciVKD92z,20/01/2017,267,290,43.5,0,20,0,zomato online,other,delivered,delivery,#N/A
+o41tbZlVO9,20/01/2017,830,830,0,0,0,0,card1484928060589,card,delivered,inStore,#N/A
+hHrXHeKHv3,20/01/2017,492,555,83.25,0,20,0,zomato online,other,delivered,delivery,#N/A
+VrcA96HAmd,20/01/2017,555,555,0,0,0,0,zomato online,other,delivered,delivery,#N/A
+vSuONhnkAg,20/01/2017,402,445,63.71,0,20,0,zomato online,other,delivered,delivery,#N/A
+v9G3EFANTV,20/01/2017,425,425,0,0,0,0,cash1484927977257,cash,delivered,delivery,#N/A
+0lA4Yeh72S,20/01/2017,0,0,0,0,0,0,#N/A,#N/A,cancelled,delivery,Added this by mistake
+vg5TcbnGci,20/01/2017,543,615,92.25,0,20,0,cash1484929332590,cash,delivered,delivery,#N/A
+7XevVFrLfX,20/01/2017,-43,0,63,0,20,0,#N/A,#N/A,cancelled,delivery,Customer requested cancellation
+e0HtZjeUfH,20/01/2017,765,765,0,0,0,0,card1484931382627,card,delivered,delivery,#N/A
+yGZDpiuOjt,20/01/2017,620,705,105.75,0,20,0,cash1484927236028,cash,delivered,delivery,#N/A
+eAqNqAY7vN,20/01/2017,45,45,0,0,0,0,zomato online,other,delivered,delivery,#N/A
+sD08fJ5xcy,20/01/2017,1624,1574,0,0,50,0,cash1484930484301,cash,delivered,delivery,#N/A
+Gx7ir57mCp,20/01/2017,300,300,0,0,0,0,cash1484911098798,cash,delivered,inStore,#N/A
+FELWNEMScm,20/01/2017,241,260,39,0,20,0,zomato online,other,delivered,delivery,#N/A
+3cL96ZA2Mz,20/01/2017,875,875,0,0,0,0,cash1484908349567,cash,delivered,inStore,#N/A
+sIMBiGAZQG,20/01/2017,320,320,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+YdmvU3aKwT,20/01/2017,301,285,4,0,20,0,zomato online,other,delivered,delivery,#N/A
+x2H6o8QR27,20/01/2017,203,225,42.75,0,20,0,zomato online,other,delivered,delivery,#N/A
+3b5eqbalfl,20/01/2017,245,245,0,0,0,0,swiggy online,other,delivered,delivery,#N/A
+nVEXdfZkWj,20/01/2017,720,800,80,0,0,0,cash1484935587643,cash,delivered,inStore,#N/A
+eDKD0WEzB7,20/01/2017,705,705,0,0,0,0,cash1484902537607,cash,delivered,delivery,#N/A
+62gPYAtzwC,20/01/2017,970,970,0,0,0,0,#N/A,#N/A,cancelled,delivery,Added this by mistake
+RcA8zHrfiZ,20/01/2017,55,55,0,0,0,0,card1484900167696,card,delivered,inStore,#N/A
+mSGAYW5EQp,20/01/2017,760,760,0,0,0,0,card1484901925638,card,delivered,inStore,#N/A
+PtJcDqfxpm,20/01/2017,1150,1150,0,0,0,0,cash1484926933539,cash,delivered,delivery,#N/A
+H1pE5jMDr3,20/01/2017,225,225,0,0,0,0,card1484900142909,card,delivered,inStore,#N/A
+wHFr2mTgl7,20/01/2017,290,290,0,0,0,0,cash1484900013736,cash,delivered,delivery,#N/A
+Ehne2sogV1,19/01/2017,441,520,99,0,20,0,zomato cash,other,delivered,delivery,#N/A
+UGHu5L4DXa,19/01/2017,297,325,48.75,0,20,0,zomato online,other,delivered,delivery,#N/A
+F5ekn2CDsd,19/01/2017,339,375,56.25,0,20,0,zomato online,other,delivered,delivery,#N/A
+smMqXLyhMC,19/01/2017,367,440,93,0,20,0,zomato online,other,delivered,delivery,#N/A
+KAmfSlj8DK,19/01/2017,180,160,0,0,20,0,zomato cash,other,delivered,delivery,#N/A
+r8jPhoRCl1,19/01/2017,246,265,39.75,0,20,0,zomato online,other,delivered,delivery,#N/A
+BnHNGTpBo8,19/01/2017,263,285,42.75,0,20,0,zomato online,other,delivered,delivery,#N/A
+N5RJnlHxf9,19/01/2017,195,390,195,0,0,0,cash1484850269627,cash,delivered,delivery,#N/A
+4iVksdsBj4,19/01/2017,377,420,63,0,20,0,zomato cash,other,delivered,delivery,#N/A
+9D19kLd9PK,19/01/2017,206,265,79.75,0,20,0,zomato online,other,delivered,delivery,#N/A
+IiwbvBjz9A,19/01/2017,394,440,66,0,20,0,zomato cash,other,delivered,delivery,#N/A
+sgwQcM4sAB,19/01/2017,529,595,86.25,0,20,0,zomato cash,other,delivered,delivery,#N/A
+PvmF28c6AT,19/01/2017,318,350,52.5,0,20,0,zomato cash,other,delivered,delivery,#N/A
+bSjUfLiBAz,19/01/2017,254,275,41.25,0,20,0,zomato cash,other,delivered,delivery,#N/A
+AL79BGXqMj,19/01/2017,260,260,0,0,0,0,cash1484845879398,cash,delivered,inStore,#N/A
+LnTRrqZ5IE,19/01/2017,265,265,0,0,0,0,swiggy cash,other,delivered,inStore,#N/A
+mxY6EqrDaz,19/01/2017,355,355,0,0,0,0,cash1484844586849,cash,delivered,inStore,#N/A
+zALt1XSqXq,19/01/2017,140,140,0,0,0,0,cash1484842289097,cash,delivered,delivery,#N/A
+lVuPeKoFK2,19/01/2017,140,140,0,0,0,0,cash1484842332452,cash,delivered,delivery,#N/A
+hFiwkoEmGF,19/01/2017,195,195,0,0,0,0,cash1484844201397,cash,delivered,delivery,#N/A
+5STEVlCDTn,19/01/2017,250,445,195,0,0,0,card1484847213016,card,delivered,inStore,#N/A
+XL6V1aHz7I,19/01/2017,0,0,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+FOdJXRUAkJ,19/01/2017,575,1150,575,0,0,0,cash1484851642964,cash,delivered,inStore,#N/A
+okOnohWDTb,19/01/2017,245,245,0,0,0,0,cash1484840710851,cash,delivered,delivery,#N/A
+ePiEWFGeqp,19/01/2017,245,225,0,0,20,0,zomato online,other,delivered,delivery,#N/A
+FpwsbGENvo,19/01/2017,241,260,39,0,20,0,zomato cash,other,delivered,delivery,#N/A
+eZYrr0v4ZX,19/01/2017,250,270,40.5,0,20,0,zomato cash,other,delivered,delivery,#N/A
+XEpUFUXBbH,19/01/2017,285,285,0,0,0,0,swiggy,other,delivered,delivery,#N/A
+QV0EOIDPs6,19/01/2017,646,760,114,0,0,0,cash1484851623325,cash,delivered,inStore,#N/A
+MHSjqdUOTR,19/01/2017,60,60,0,0,0,0,cash1484834669037,cash,delivered,inStore,#N/A
+IgceNL0NxP,19/01/2017,355,550,195,0,0,0,cash1484834572898,cash,delivered,delivery,#N/A
+oPfd0GqLx9,19/01/2017,510,510,0,0,0,0,cash1484834397040,cash,delivered,delivery,#N/A
+KoMaX1xd6b,19/01/2017,265,265,0,0,0,0,cash1484834182493,cash,delivered,inStore,#N/A
+yDPeGY3k2Q,19/01/2017,755,755,0,0,0,0,cash1484846181477,cash,delivered,delivery,#N/A
+vY1ZQmT6OS,19/01/2017,300,300,0,0,0,0,cash1484833679324,cash,delivered,delivery,#N/A
+SZGg3xpVPM,19/01/2017,970,970,0,0,0,0,cash1484833025152,cash,delivered,inStore,#N/A
+0OrYtfahBV,19/01/2017,795,795,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+WnzEXAHVqG,17/01/2017,225,225,0,0,0,0,cash1484677425822,cash,delivered,delivery,#N/A
+Csfif8GWlC,17/01/2017,246,265,39,0,20,0,cash1484676904038,cash,delivered,delivery,#N/A
+SrcBXGCfAb,17/01/2017,270,290,40,0,20,0,zomato,other,delivered,delivery,#N/A
+AjlluGjJey,17/01/2017,225,225,0,0,0,0,cash1484677500241,cash,delivered,delivery,#N/A
+jrgTIYnIGa,17/01/2017,841,965,144.75,0,20,0,cash1484675125534,cash,delivered,delivery,#N/A
+qvqCgDDMZD,17/01/2017,1165,1165,0,0,0,0,cash1484677591519,cash,delivered,delivery,#N/A
+01FBwAb7pA,17/01/2017,370,370,0,0,0,0,swiggy,other,delivered,delivery,#N/A
+DwrtSGP7dc,17/01/2017,0,0,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+KFXZrsagym,17/01/2017,470,470,0,0,0,0,swiggy,other,delivered,delivery,#N/A
+FiGN622gSp,17/01/2017,254,275,41.25,0,20,0,zomato,other,delivered,delivery,#N/A
+3lCWfHBnrL,17/01/2017,292,320,48,0,20,0,zomato,other,delivered,delivery,#N/A
+OwhPjZUePz,17/01/2017,170,150,0,0,20,0,zomato,other,delivered,delivery,#N/A
+FzFMWwewhe,17/01/2017,420,420,0,0,0,0,zomato,other,delivered,delivery,#N/A
+97kGvRWZbg,17/01/2017,790,790,0,0,0,0,swiggy,other,delivered,delivery,#N/A
+ztu1IES1wA,17/01/2017,360,360,0,0,0,0,swiggy,other,delivered,delivery,#N/A
+zGHcghvWcE,17/01/2017,550,570,20,0,0,0,zomzto,other,delivered,delivery,#N/A
+VbaZ6u0skv,17/01/2017,560,560,0,0,0,0,swiggy,other,delivered,delivery,#N/A
+Bdlq26hNal,17/01/2017,124,140,41,0,25,0,cash1484669038681,cash,delivered,delivery,#N/A
+k67ExqYypl,17/01/2017,250,250,0,0,0,0,cash1484667060048,cash,delivered,delivery,#N/A
+Oo52sWa5LG,17/01/2017,290,290,0,0,0,0,cash1484662154738,cash,delivered,delivery,#N/A
+7QuPOAJbOI,17/01/2017,300,300,0,0,0,0,card1484662058612,card,delivered,inStore,#N/A
+Ce1Cfkir4W,17/01/2017,255,255,0,0,0,0,card1484661901104,card,delivered,delivery,#N/A
+XdeHruGPSU,17/01/2017,320,320,0,0,0,0,cash1484661706252,cash,delivered,delivery,#N/A
+einQXUezwE,17/01/2017,285,285,0,0,0,0,cash1484661541672,cash,delivered,delivery,#N/A
+eByqcY0EUA,17/01/2017,330,330,0,0,0,0,cash1484661362614,cash,delivered,inStore,#N/A
+YHq88AsYc2,17/01/2017,99,140,41,0,0,0,cash1484661165513,cash,delivered,delivery,#N/A
+x4HScqUmjr,15/01/2017,246,265,39.75,0,20,0,zomato,other,delivered,delivery,#N/A
+LKDkDpJBOk,15/01/2017,530,600,90,0,20,0,zomto online,other,delivered,delivery,#N/A
+AOv5IMAfo5,15/01/2017,386,430,64.5,0,20,0,zomato online,other,delivered,delivery,#N/A
+JAZAzVHDfm,15/01/2017,403,450,67.5,0,20,0,zomato  online,other,delivered,delivery,#N/A
+dUUIkT0j6Q,15/01/2017,263,285,42.75,0,20,0,zomato online,other,delivered,delivery,#N/A
+bwlKl0cfaO,15/01/2017,263,285,42.75,0,20,0,zomato online,other,delivered,delivery,#N/A
+sMwyDNuHrK,15/01/2017,1070,1070,0,0,0,0,cash1484505408687,cash,delivered,inStore,#N/A
+5AKHv5GBRO,15/01/2017,308,340,52,0,20,0,cash1484502828209,cash,delivered,delivery,#N/A
+mE1rjAmATa,15/01/2017,530,600,90,0,20,0,zomato online,other,delivered,delivery,#N/A
+knIuNjgNDG,15/01/2017,1255,1255,0,0,0,0,zomato online,other,delivered,inStore,#N/A
+d9erM4JI9v,15/01/2017,705,705,0,0,0,0,#N/A,#N/A,cancelled,delivery,Added this by mistake
+Ps5fUDqSs3,15/01/2017,705,705,0,0,0,0,cash1484504879306,cash,delivered,inStore,#N/A
+KQilW0w3Ez,15/01/2017,50,50,0,0,0,0,cash1484499652716,cash,delivered,inStore,#N/A
+jOE6xjfhxu,15/01/2017,320,320,0,0,0,0,cash1484499300713,cash,delivered,inStore,#N/A
+Y0179jUDye,15/01/2017,90,90,0,0,0,0,cash1484498957271,cash,delivered,inStore,#N/A
+uLYwdvwv7E,15/01/2017,75,75,0,0,0,0,cash1484498865125,cash,delivered,inStore,#N/A
+PhtEirG1Oo,15/01/2017,525,805,280,0,0,0,cash1484504854828,cash,delivered,inStore,#N/A
+mSHXAjjKfD,15/01/2017,0,0,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+1x3hDJIepE,15/01/2017,0,0,0,0,0,0,#N/A,#N/A,cancelled,inStore,Added this by mistake
+Tl8GfQxLNK,15/01/2017,130,130,0,0,0,0,cash1484497134350,cash,delivered,inStore,#N/A
+BKMjK8w0Ec,15/01/2017,560,560,0,0,0,0,cash1484497769081,cash,delivered,inStore,#N/A
+1TCO4Tm3gZ,15/01/2017,1025,1025,0,0,0,0,card1484498979665,card,delivered,inStore,#N/A
+leWNGhjeFX,15/01/2017,565,565,0,0,0,0,cash1484498381513,cash,delivered,delivery,#N/A
+ZuZPExXKK3,15/01/2017,222,290,88,0,20,0,cash1484496732635,cash,delivered,delivery,#N/A
+xEIa3M3wJY,15/01/2017,285,285,0,0,0,0,zomato online,other,delivered,inStore,#N/A
+mnevl5Ozpo,15/01/2017,245,245,0,0,0,0,zomato online,other,delivered,inStore,#N/A
+EapQU6mwQB,15/01/2017,1000,1000,0,0,0,0,cash1484496557188,cash,delivered,delivery,#N/A
+qRr65hjfhL,15/01/2017,285,285,0,0,0,0,zomato onlin,other,delivered,delivery,#N/A
+dDY10CloSF,15/01/2017,420,420,0,0,0,0,zomato online,other,delivered,inStore,#N/A
+4Xph6YDohM,15/01/2017,520,520,0,0,0,0,cash1484491043685,cash,delivered,delivery,#N/A
+G7hC8M4LIA,15/01/2017,420,420,0,0,0,0,cash1484492662902,cash,delivered,delivery,#N/A
+O0ugtmDUCP,15/01/2017,365,405,60.75,0,20,0,cash1484490756701,cash,delivered,delivery,#N/A
+6aCogvnBHL,15/01/2017,267,290,43.5,0,20,0,cash1484493238925,cash,delivered,delivery,#N/A
+G37VOl3nmf,15/01/2017,400,400,0,0,0,0,zomato,other,delivered,delivery,#N/A
+FmNIVR73Qh,15/01/2017,255,255,0,0,0,0,cash1484497409512,cash,delivered,delivery,#N/A
+Xtj9ZGs1YM,15/01/2017,1220,1220,0,0,0,0,swiggy online,other,delivered,inStore,#N/A
+bP6OoXWwPH,15/01/2017,150,150,0,0,0,0,cash1484479459839,cash,delivered,delivery,#N/A
+xuWHkazD57,15/01/2017,215,195,0,0,20,0,cash1484479286797,cash,delivered,delivery,#N/A
+zQfyktNbWZ,15/01/2017,290,290,0,0,0,0,cash1484472716627,cash,delivered,inStore,#N/A
+R6fjL2t9XD,15/01/2017,245,245,0,0,0,0,zomato cah,cash,delivered,inStore,#N/A
+GwgkppMZqe,15/01/2017,280,315,35,0,0,0,cash1484474529116,cash,delivered,inStore,#N/A
+tmbFmN4DuK,15/01/2017,315,315,0,0,0,0,cash1484471267685,cash,cancelled,inStore,Technical error
+IHElw5DxhS,15/01/2017,145,145,0,0,0,0,cash1484470968436,cash,delivered,inStore,#N/A
+wqNnS7Lqx8,15/01/2017,395,395,0,0,0,0,cash1484472089850,cash,delivered,delivery,#N/A
+yVO4GGbmYW,15/01/2017,285,285,0,0,0,0,swiggy online,other,delivered,delivery,#N/A
+2DxDGxwXV0,15/01/2017,450,450,0,0,0,0,card1484469581908,card,delivered,delivery,#N/A
+RteHWCS5a2,15/01/2017,530,530,0,0,0,0,cash1484471427742,cash,delivered,delivery,#N/A
+qqu5VjPkXA,15/01/2017,195,195,0,0,0,0,swiggy online,other,delivered,delivery,#N/A
+uB6BFTqz4V,15/01/2017,1010,1010,0,0,0,0,cash1484472065147,cash,delivered,delivery,#N/A
+3K0AQIwd1q,15/01/2017,265,265,0,0,0,0,cash1484469767906,cash,delivered,inStore,#N/A
+iutX7MbtCH,15/01/2017,1167,1345,178,0,0,0,cash1484476892161,cash,delivered,delivery,#N/A
+4a3rDqwB99,15/01/2017,345,345,0,0,0,0,swiggy online,other,delivered,delivery,#N/A
+nAm3OT0Knq,15/01/2017,530,530,0,0,0,0,cash1484469123739,cash,delivered,delivery,#N/A
+kMc9zQTkI0,15/01/2017,225,225,0,0,0,0,cash1484465144109,cash,delivered,delivery,#N/A
+wrHf0eGmvr,15/01/2017,1799,1699,0,0,100,0,cash1484465224606,cash,delivered,delivery,#N/A
+6GkmmUCgmH,14/01/2017,220,220,0,0,0,0,card1484417909930,card,delivered,delivery,#N/A
+BzCeCYs1qs,14/01/2017,990,990,0,0,0,0,cash1484412370889,cash,delivered,inStore,#N/A
+4VtGMzVwwx,14/01/2017,245,245,0,0,0,0,cash1484412075321,cash,delivered,inStore,#N/A
+63GBYaFTbY,14/01/2017,1615,1615,0,0,0,0,cash1484409436261,cash,delivered,delivery,#N/A
+zdgqXv6Lpk,14/01/2017,2350,2250,0,0,100,0,cash1484410612265,cash,delivered,delivery,#N/A
+p5jyYvEBem,14/01/2017,105,160,55,0,0,0,cash1484418614769,cash,delivered,inStore,#N/A
+3ZGPDkqEng,14/01/2017,575,575,0,0,0,0,littapp,other,delivered,inStore,#N/A
+cnaMxlLFuZ,14/01/2017,450,450,0,0,0,0,cash1484407152506,cash,delivered,delivery,#N/A
+YFbin6174X,14/01/2017,160,160,0,0,0,0,cash1484408109521,cash,delivered,delivery,#N/A
+4zCNQDDeGY,14/01/2017,665,665,0,0,0,0,cash1484407908195,cash,delivered,delivery,#N/A
+odjz4XvgIR,14/01/2017,650,695,45,0,0,0,cash1484407643297,cash,delivered,delivery,#N/A
+WZEkBzJ14F,14/01/2017,265,265,0,0,0,0,cash1484405114221,cash,delivered,delivery,#N/A
+V9ToLLL3ld,14/01/2017,1769,1769,0,0,0,0,card1484403186086,card,delivered,delivery,#N/A
+sAkeQVh507,14/01/2017,470,470,0,0,0,0,card1484400641813,card,delivered,inStore,#N/A
+YCQTOUWJxK,14/01/2017,352,390,58.5,0,20,0,cash1484402901885,cash,delivered,delivery,#N/A
+doLKw9SKim,14/01/2017,245,225,0,0,20,0,zomato online,other,delivered,delivery,#N/A
+0ow0kQrenU,14/01/2017,420,470,70,0,20,0,zomato online,other,delivered,delivery,#N/A
+Yx1qyncCE8,14/01/2017,185,185,0,0,0,0,cash1484390248216,cash,delivered,inStore,#N/A
+7czTDhOwFG,14/01/2017,649,1299,650,0,0,0,cash1484388660286,cash,delivered,inStore,#N/A
+PCPb1NwTCH,14/01/2017,1050,1050,0,0,0,0,cash1484388581986,cash,delivered,inStore,#N/A
+kr6Hy0gdZW,14/01/2017,1951,2598,647,0,0,0,cash1484386945948,cash,delivered,delivery,#N/A
+xNiMCNGCou,14/01/2017,150,150,0,0,0,0,cash1484385166744,cash,delivered,delivery,#N/A
+zPnQezFuNT,14/01/2017,395,395,0,0,0,0,cash1484381612772,cash,delivered,inStore,#N/A
+FWlGAL1lTb,14/01/2017,335,335,0,0,0,0,cash1484407925603,cash,delivered,inStore,#N/A
+UDEDMDRNMu,14/01/2017,780,780,0,0,0,0,cash1484382906663,cash,delivered,delivery,#N/A
+exSSGyqVHa,13/01/2017,8875,9521,646,0,0,4000,cash1484465711531,cash,delivered,delivery,#N/A
+bDJutLrTzk,13/01/2017,395,395,0,0,0,0,swiggy,other,delivered,delivery,#N/A
+TqrBfEjPOX,13/01/2017,1145,1145,0,0,0,0,cash1484332983304,cash,delivered,inStore,#N/A
+H6nTqu0gr7,13/01/2017,263,285,42.75,0,20,0,zomato online,other,delivered,delivery,#N/A
+YVSf2pDjQm,13/01/2017,2256,2630,394.5,0,20,0,zomato cash,other,delivered,delivery,#N/A
+Sggt3X1ddC,13/01/2017,428,480,72,0,20,0,zomato online,other,delivered,delivery,#N/A
+xLGSoaNW4j,13/01/2017,487,545,78.75,0,20,0,zomato cash,other,delivered,delivery,#N/A
+ZmRPtz5woY,13/01/2017,245,245,0,0,0,0,cash1484329431795,cash,delivered,delivery,#N/A
+HSRkaQuh8W,13/01/2017,246,265,39.75,0,20,0,zomato,other,delivered,delivery,#N/A
+MS8OZ9dqef,13/01/2017,265,265,0,0,0,0,swiggy,other,delivered,delivery,#N/A
+ykgkHyZe5t,13/01/2017,245,225,0,0,20,0,cash1484327440446,cash,delivered,delivery,#N/A
+4t2KHeLexA,13/01/2017,265,265,0,0,0,0,zomato - online,other,cancelled,delivery,Added this by mistake
+TtNGxhxRGd,13/01/2017,225,225,0,0,0,0,cash1484326899493,cash,cancelled,delivery,Added this by mistake
+GVlhyt5mSU,13/01/2017,265,265,0,0,0,0,swiggy,other,delivered,delivery,#N/A
+OjEmcpGsCp,13/01/2017,245,245,0,0,0,0,cash1484326171875,cash,delivered,inStore,#N/A
+WOwN7yDqD9,13/01/2017,265,265,0,0,0,0,cash1484324972537,cash,delivered,delivery,#N/A
+bNdPo9vKKb,13/01/2017,1060,1060,0,0,0,0,cash1484325059954,cash,delivered,delivery,#N/A
+qbxTiXLoCM,13/01/2017,225,225,0,0,0,0,cash1484322204759,cash,delivered,delivery,#N/A
+pDbyqXiOkd,13/01/2017,1270,1270,0,0,0,0,cash1484325124781,cash,delivered,delivery,#N/A
+jV4z8cAIJw,13/01/2017,445,445,0,0,0,0,cash1484321221721,cash,delivered,delivery,#N/A
+o2NUys4iSB,13/01/2017,245,245,0,0,0,0,card1484318445986,card,delivered,inStore,#N/A
+sQtCcjhyWj,13/01/2017,470,470,0,0,0,0,card1484301912916,card,delivered,delivery,#N/A
+ZXFCECmYa5,13/01/2017,220,220,0,0,0,0,cash1484299097748,cash,delivered,inStore,#N/A
+nVgLORuKS3,13/01/2017,235,235,0,0,0,0,cash1484300225779,cash,delivered,inStore,#N/A
+zieQwg8fDN,13/01/2017,300,300,0,0,0,0,cash1484300097034,cash,delivered,delivery,#N/A
+hxDRnu6uQv,13/01/2017,0,0,0,0,0,0,cash1484299702513,cash,cancelled,inStore,Added this by mistake
+bvcO40ZVnK,13/01/2017,1505,1770,265.5,0,0,0,cash1484331890069,cash,delivered,inStore,#N/A
+vW8qBp3EA6,13/01/2017,280,280,0,0,0,0,swiggy,other,delivered,delivery,#N/A
+Wg3GWMzEYY,13/01/2017,240,240,0,0,0,0,card1484295120013,card,delivered,inStore,#N/A
+0u2qjJDVAx,13/01/2017,280,280,0,0,0,0,cash1484294055843,cash,delivered,inStore,#N/A
+BTidCkeKFM,13/01/2017,290,290,0,0,0,0,cash1484293319946,cash,delivered,delivery,#N/A
+umHeaYwvaZ,13/01/2017,0,0,0,0,0,0,cash1484295601681,cash,cancelled,inStore,Added this by mistake
+Z5hAgqDern,12/1/2017,488,550,82.5,0,20,0,zomato,other,delivered,delivery,#N/A
+yF0z0ln6lk,12/1/2017,356,395,59.25,0,20,0,cash1484243203311,cash,delivered,delivery,#N/A
+RpNrMLAjJ4,12/1/2017,265,245,0,0,20,0,zomato,other,delivered,delivery,#N/A
+92V4QHYnA6,12/1/2017,292,320,48,0,20,0,cash1484242547363,cash,delivered,delivery,#N/A
+0w0GjHSMvt,12/1/2017,352,370,38.5,0,20,0,zomato,other,delivered,delivery,#N/A
+ckZaRrIrCL,12/1/2017,470,470,0,0,0,0,swiggy,other,delivered,delivery,#N/A
+Tm5OilrpMD,12/1/2017,580,580,0,0,0,0,swiggy,other,delivered,delivery,#N/A
+MJfp1qsu4D,12/1/2017,415,670,255,0,0,0,cash1484239317866,cash,delivered,inStore,#N/A
+4ywD7M6ZMM,12/1/2017,340,340,0,0,0,0,cash1484239930783,cash,delivered,inStore,#N/A
+rCMILfTFf4,12/1/2017,575,575,0,0,0,0,card1484237933740,card,delivered,delivery,#N/A
+S5meNEWjNg,12/1/2017,185,370,185,0,0,0,cash1484234893448,cash,delivered,inStore,#N/A
+p0KcovBcuY,12/1/2017,195,390,195,0,0,0,cash1484235754427,cash,delivered,delivery,#N/A
+TTErUYAK2D,12/1/2017,1170,1735,585,0,20,0,cash1484244181121,cash,delivered,inStore,#N/A
+yqCEemROER,12/1/2017,255,255,0,0,0,0,cash1484234183783,cash,delivered,delivery,#N/A
+fk6VglhTXf,12/1/2017,225,225,0,0,0,0,Swiggy,other,delivered,delivery,#N/A
+1Vh45pncor,12/1/2017,470,470,0,0,0,0,cash1484230131275,cash,delivered,inStore,#N/A
+wLVREC5reY,12/1/2017,570,570,0,0,0,0,cash1484230618984,cash,delivered,inStore,#N/A
+qFxD5hhe3r,12/1/2017,270,295,45,0,20,0,cash1484228982594,cash,delivered,delivery,#N/A
+LiAOsXPIqG,12/1/2017,225,225,0,0,0,0,cash1484228813980,cash,delivered,inStore,#N/A
+4elIdBFaMF,12/1/2017,495,495,0,0,0,0,cash1484227998417,cash,delivered,inStore,#N/A
+tU5WuIvevd,12/1/2017,315,500,185,0,0,0,card1484227486357,card,delivered,delivery,#N/A
+,838,399303.25,,,,,,,,,,
