@@ -1,7 +1,7 @@
 Author: Varun Sharma
 
 Filenames: discount_trend.R
-          Discount_data.csv
+           Discount_data.csv
 
 Pre-requisites:
 	- Make sure that 'e1071' and 'caret' packages are installed on your environment already.
