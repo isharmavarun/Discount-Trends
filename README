@@ -1,0 +1,18 @@
+Author: Varun Sharma
+
+Filenames: discount_trend.R
+          Discount_data.csv
+
+Pre-requisites:
+	- Make sure that 'e1071' and 'caret' packages are installed on your environment already.
+		install.packages("e1071")
+		install.packages("caret")
+	- The 'Discount_data.csv' file should be present at the same location as 'discount_trend.R' file.
+
+How to run:
+	- Launch RStudio
+	- Run the following command:
+		source('<FILE_PATH>/discount_trend.R')
+
+Output:
+	- Output can be seen on the RStudio console.
